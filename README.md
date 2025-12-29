@@ -8,7 +8,7 @@
 
 ### 🎨 **Digital Artist • Full-Stack Developer • Creative Technologist**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=Welcome+to+My+Creative+Universe+%F0%9F%8C%8C;Transforming+Ideas+into+Digital+Art+%F0%9F%8E%A8;Building+the+Future+of+Art+%F0%9F%9A%80;Code+%2B+Creativity+%3D+Magic+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=Welcome+to+My+Creative+Universe+%F0%9F%8C%8C;Transforming+Ideas+into+Digital+Art+%F0%9F%8E%A8;Building+the+Future+of+Art+%F0%9F%9A%80;Code+%2B+Creativity+%3D+Magic+%E2%9C%A8" alt="Typing SVG" />
 
 ---
 
@@ -274,7 +274,7 @@ I'm always open to:
 ### **⚠️ Click at Your Own Risk! ⚠️**
 
 <details>
-<summary><b>🚀 OPEN LONG POSITION (100x Leverage)</b></summary>
+<summary><b>🚀 OPEN LONG POSITION (100x Leverage) 🚀</b></summary>
 
 <br>
 
@@ -282,34 +282,133 @@ I'm always open to:
 ⚠️  INITIATING TRADE...
 ⚠️  LEVERAGE: 100x
 ⚠️  POSITION: LONG $ART/USDT
+⚠️  ENTRY PRICE: $1,000
 ⚠️  LOADING...
 
-██████████████████████████████  100%
+████░░░░░░░░░░░░░░░░░░░░░  20%
+█████████░░░░░░░░░░░░░░░░  40%
+██████████████░░░░░░░░░░░  60%
+█████████████████████░░░░  85%
+██████████████████████████ 100%
 
-🎢 WHEEEEEEE!!!
+✅ TRADE EXECUTED!
 ```
 
 <div align="center">
-<img src="https://media.giphy.com/media/VHHxxFAeLaYzS/giphy.gif" width="300"/>
+
+<img src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif" width="400"/>
+
+### **📉 MARKET DUMP! 📉**
+
+```
+🚨 ALERT! ALERT! ALERT! 🚨
+
+Price: $1,000 → $950 → $900 → $850...
+        ↓       ↓      ↓      ↓
+       💀      💀     💀     💀
+
+Position: UNDERWATER
+Margin: BLEEDING
+Account: SWEATING
+```
+
+<img src="https://media.giphy.com/media/55itGuoAJiZEEen9gg/giphy.gif" width="300"/>
+
+```
+⚠️  MARGIN CALL! ⚠️
+⚠️  LIQUIDATION IMMINENT!
+⚠️  PRICE: $750... $700... $650...
+
+██████████████████████████ 100%
+
+💥 BOOM! 💥
+```
+
+<img src="https://media.giphy.com/media/VHHxxFAeLaYzS/giphy.gif" width="400"/>
 
 ## **🤮 REKT! 🤮**
 
 ```
-❌ LIQUIDATED!
-❌ Account Balance: $0.00
-❌ PnL: -100%
-
-💬 "Kusura bakma kardeşim, 
-    bizde kaldıraca yer yok...
-    Çok döndü başımız! 🤯"
+╔════════════════════════════════════════╗
+║        ⚰️  LIQUIDATION NOTICE  ⚰️       ║
+╠════════════════════════════════════════╣
+║                                        ║
+║  Position:        LIQUIDATED  💀       ║
+║  Entry Price:     $1,000.00            ║
+║  Liquidation:     $500.00              ║
+║  Loss:            -$50,000.00          ║
+║  Account Balance: $0.00                ║
+║  PnL:             -100% 📉             ║
+║                                        ║
+║  Status:          ☠️  REKT  ☠️          ║
+║                                        ║
+╚════════════════════════════════════════╝
 ```
 
-### **📚 Lesson Learned:**
-*"Don't trade with 100x leverage, kids. Also, this is why we code instead of trade."*
+<img src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" width="250"/>
 
-<img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" width="200"/>
+### **💬 Piyasadan Mesaj Var:**
 
-**🎨 Stick to art, not charts! 💚**
+<img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" width="300"/>
+
+```
+┌─────────────────────────────────────────┐
+│                                         │
+│   "Kusura bakma kardeşim... 😅          │
+│                                         │
+│    Bizde kaldıraca yer yok!            │
+│    Çok döndü başımız! 🤯               │
+│                                         │
+│    Bu yüzden sanatla uğraşıyoruz,      │
+│    chart'larla değil! 🎨"              │
+│                                         │
+│                          - İlhan Art    │
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+<img src="https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif" width="200"/>
+
+---
+
+### **📚 Lessons Learned:**
+
+```
+✅ Stick to art, not leverage trading
+✅ Code is more stable than crypto charts
+✅ 100x leverage = 100x headache
+✅ Bulls make money, bears make money, pigs get slaughtered
+✅ When in doubt, paint it out! 🎨
+```
+
+### **🎨 Better Investment Strategy:**
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### ❌ **Trading**
+- Stress: 📈📈📈
+- Sleep: 😴💀
+- Hair Loss: 🧑 → 👨‍🦲
+- Profit: 💸❌
+
+</td>
+<td width="50%" align="center">
+
+### ✅ **Creating Art**
+- Stress: 😌
+- Sleep: 😴✨
+- Creativity: 📈📈📈
+- Satisfaction: 💚💚💚
+
+</td>
+</tr>
+</table>
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400"/>
+
+**💚 Choose wisely, my friend. Choose art. 🎨**
 
 </div>
 
