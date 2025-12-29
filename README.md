@@ -13,7 +13,7 @@
 ---
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ilhanart.org-10b981?style=for-the-badge&logoColor=white)](https://ilhanart.org)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-@ilhanart-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ilhanart)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-@ilhanartgaleri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ilhanartgaleri)
 [![Email](https://img.shields.io/badge/📧_Email-Say_Hello-10b981?style=for-the-badge)](mailto:galeri@ilhanart.org)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=galeri-coder&label=Profile%20Views&color=10b981&style=for-the-badge)
@@ -250,11 +250,12 @@ I'm always open to:
 
 ### **Find Me On:**
 
-[![Website](https://img.shields.io/badge/🌐_Website-ilhan-10b981?style=for-the-badge)](https://ilhanart.org)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ilhanart)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ilhanart)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilhanart)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ilhanart)
+[![Website](https://img.shields.io/badge/🌐_Website-ilhanart.org-10b981?style=for-the-badge)](https://ilhanart.org)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ilhanartgaleri)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/İlhanARTLive)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Galerilhan)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alinaki.ilhan)
+[![Email](https://img.shields.io/badge/Email-10b981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galeri@ilhanart.org)
 
 </div>
 
@@ -285,11 +286,14 @@ I'm always open to:
 
 <div align="center">
 
-If you appreciate what I create, consider:
+If you appreciate what I create, consider supporting İlhan Art:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-☕-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ilhanart)
-[![Commission](https://img.shields.io/badge/Commission%20Art-🎨-10b981?style=for-the-badge)](https://ilhanrt.org/commission)
-[![Star Repos](https://img.shields.io/badge/⭐_Star_My_Repos-10b981?style=for-the-badge)](https://github.com/galeri-coder?tab=repositories)
+[![Support İlhan Art](https://img.shields.io/badge/💚_Support_İlhan_Art-Visit_Our_Page-10b981?style=for-the-badge)](https://www.ilhanart.org/support)
+[![View Artworks](https://img.shields.io/badge/🎨_View_Artworks-Explore_Gallery-10b981?style=for-the-badge)](https://www.ilhanart.org/alinakiilhan)
+[![Star Repos](https://img.shields.io/badge/⭐_Star_My_Repos-GitHub-10b981?style=for-the-badge)](https://github.com/galeri-coder?tab=repositories)
+
+**Support us through your skills or contributions!**  
+Visit our [Support Page](https://www.ilhanart.org/support) to see how you can help, or explore our gallery to discover unique artworks.
 
 </div>
 
