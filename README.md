@@ -227,20 +227,29 @@ I'm always open to:
 
 ---
 
-## 💰 **🚨CLICK TO EXPERIENCE FOMO (DEMO)🚨
-** 💰
+## 🚨 **FOMO Psychology Demo - Educational Purpose Only** 🚨
+
+> **⚠️ DISCLAIMER: This is a PARODY for educational purposes!**
+> 
+> This section intentionally mimics common scam tactics to demonstrate psychological manipulation.  
+> **NO real investment, token sale, or financial offer.**  
+> The button leads to a harmless demonstration (barrel roll animation).
+> 
+> **Purpose:** Learn to recognize red flags before encountering real scams.
+
+---
 
 <img src="https://media.giphy.com/media/67ThRZlYBvibtdF9JH/giphy.gif" width="100%"/>
 
 <h1>
 <a href="https://galeri-coder.github.io/barrel-roll" style="text-decoration: none;">
-🚀 OPEN LONG POSITION - 100x LEVERAGE 🚀
+🚀 EXPERIENCE FOMO MANIPULATION (CLICK TO LEARN) 🚀
 </a>
 </h1>
 
 <img src="https://media.giphy.com/media/YnkMcHgNIMW4Yfmjxr/giphy.gif" width="500"/>
 
-### **📰 BREAKING NEWS FROM EXCHANGES 📰**
+### **📰 FAKE NEWS EXAMPLES (For Educational Purposes)** 📰
 
 ```
 🔴 BLOOMBERG: "The Greatest Opportunity in History!" 💰
@@ -259,7 +268,7 @@ I'm always open to:
 
 <br>
 
-### **🎯 ACT NOW! 🎯**
+### **🎯 TYPICAL SCAM BUTTONS (Educational Examples)** 🎯
 
 <a href="https://galeri-coder.github.io/barrel-roll">
 <img src="https://img.shields.io/badge/💎_OPEN_LONG-100x_LEVERAGE-FFD700?style=for-the-badge&labelColor=00FF00&logoColor=white" height="60"/>
