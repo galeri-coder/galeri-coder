@@ -1,6 +1,6 @@
-[<div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=İLHAN%20ART&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Where%20Art%20Meets%20Technology&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=İLHAN%20ART&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Where%20Art%20Meets%20Technology&descAlignY=55&descSize=20" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 ### 🎨 **Digital Artist • Full-Stack Developer • Creative Technologist**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=120&lines=Welcome+to+My+Creative+Universe+%F0%9F%8C%8C;Transforming+Ideas+into+Digital+Art+%F0%9F%8E%A8;Building+the+Future+of+Art+%F0%9F%9A%80;Code+%2B+Creativity+%3D+Magic+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+My+Creative+Universe+%F0%9F%8C%8C;Transforming+Ideas+into+Digital+Art+%F0%9F%8E%A8;Building+the+Future+of+Art+%F0%9F%9A%80;Code+%2B+Creativity+%3D+Magic+%E2%9C%A8" alt="Typing SVG" />
 
 ---
 
@@ -271,7 +271,7 @@ I'm always open to:
 
 ## 🎯 **Trading Simulator**
 
-### **⚠️ Yatırım Tavsiyesi Değildir ⚠️**
+### **⚠️ Not Financial Advice ⚠️**
 
 <details>
 <summary><b>🚀 OPEN LONG POSITION (100x Leverage) 🚀</b></summary>
@@ -280,12 +280,12 @@ I'm always open to:
 
 <div align="center">
 
-### **Gerçekten açmak istiyor musun?** 🤔
+### **Do you really want to open it?** 🤔
 
 <br>
 
-<a href="https://elgoog.im/doabarrelroll/">
-<img src="https://img.shields.io/badge/💸_EVET,_LONG_AÇ!-100x_Kaldıraç-FF0000?style=for-the-badge&logo=bitcoin&logoColor=white" width="300"/>
+<a href="https://galeri-coder.github.io/barrel-roll">
+<img src="https://img.shields.io/badge/💸_YES,_LONG!-100x_Leverage-FF0000?style=for-the-badge&logo=bitcoin&logoColor=white" width="300"/>
 </a>
 
 <br><br>
@@ -302,18 +302,18 @@ I'm always open to:
 
 <img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" width="200"/>
 
-### **💬 Öğüt:**
+### **💬 Advice:**
 
 ```
 ┌─────────────────────────────────────────┐
 │                                         │
-│   "Kusura bakma kardeşim,              │
-│    bizde kaldıraca yer yok! 🚫         │
+│   "No leverage here. 🚫                │
+│    Too much spinning! 🤯               │
 │                                         │
-│    Çok döndü başımız... 🤯             │
-│    O yüzden sanatla uğraşıyoruz! 🎨"   │
+│    That's why we create art,           │
+│    not chase charts! 🎨"               │
 │                                         │
-│                      - İlhan Art Studio │
+│                     - İlhan Art Studio  │
 │                                         │
 └─────────────────────────────────────────┘
 ```
@@ -391,7 +391,7 @@ Visit our [Support Page](https://www.ilhanart.org/support) to see how you can he
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&repeat=true&width=600&lines=Keep+Creating+%F0%9F%8E%A8;Keep+Coding+%F0%9F%92%BB;Keep+Inspiring+%E2%9C%A8;See+You+in+the+Metaverse!+%F0%9F%8C%8C" alt="Farewell" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" width="100%"/>
 
 **Made with ❤️, 🎨, and countless ☕ by İlhan Art**
 
@@ -400,4 +400,3 @@ Visit our [Support Page](https://www.ilhanart.org/support) to see how you can he
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/> <em><b>Happy coding and creating!</b> 🚀</em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="60"/>
 
 </div>
-](https://goglogo.net/do-a-barrel-roll-trick/?times=10)
