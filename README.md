@@ -136,11 +136,6 @@ Sharing knowledge through workshops and mentoring. Empowering the next generatio
 
 ## 📊 **GitHub Analytics**
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=galeri-coder&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9&border_radius=10"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galeri-coder&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&border_radius=10"/>
 
 <br>
 
