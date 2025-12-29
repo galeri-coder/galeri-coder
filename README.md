@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=İLHAN%20ART&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Where%20Art%20Meets%20Technology&descAlignY=55&descSize=20" width="100%"/>
 
@@ -400,3 +400,4 @@ Visit our [Support Page](https://www.ilhanart.org/support) to see how you can he
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/> <em><b>Happy coding and creating!</b> 🚀</em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="60"/>
 
 </div>
+](https://goglogo.net/do-a-barrel-roll-trick/?times=10)
