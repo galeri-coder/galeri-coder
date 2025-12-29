@@ -227,7 +227,8 @@ I'm always open to:
 
 ---
 
-## 💰 **EASY MONEY ZONE** 💰
+## 💰 **🚨CLICK TO EXPERIENCE FOMO (DEMO)🚨
+** 💰
 
 <img src="https://media.giphy.com/media/67ThRZlYBvibtdF9JH/giphy.gif" width="100%"/>
 
