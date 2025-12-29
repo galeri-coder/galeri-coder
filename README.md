@@ -295,7 +295,7 @@ I'm always open to:
 <br>
 
 <a href="https://galeri-coder.github.io/barrel-roll">
-<img src="https://img.shields.io/badge/💰_CLICK_HERE_FOR_EASY_MONEY!-100x_Returns_GUARANTEED!-00FF00?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=FFD700" height="60"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=1000&pause=500&color=FFD700&center=true&vCenter=true&repeat=true&width=1000&height=80&lines=💰+CLICK+HERE+FOR+EASY+MONEY!+💰;🚀+100x+RETURNS+GUARANTEED!+🚀;💎+DON'T+MISS+OUT!+💎" alt="Easy Money" />
 </a>
 
 <br>
@@ -316,6 +316,32 @@ I'm always open to:
 ---
 
 </div>
+
+---
+
+## 🚨 **IMPORTANT LESSON** 🚨
+
+<div align="center">
+
+### **The more GIFs, ads, and promises you see, the farther you should run.** 🏃‍♂️💨
+
+If something looks too good to be true, it probably is.  
+Legitimate opportunities don't need flashy animations and "GUARANTEED RETURNS!" claims.
+
+**Real wealth is built through:**
+- 🎨 Creating value (art, code, knowledge)
+- 📚 Continuous learning and skill development
+- 🤝 Building genuine relationships and communities
+- ⏳ Patience and consistent effort over time
+
+**Remember:** If you clicked the button above, you just experienced what FOMO (Fear Of Missing Out) feels like.  
+Learn to recognize these tactics, and you'll save yourself from many financial disasters.
+
+💡 *Stay curious, stay skeptical, stay safe.*
+
+</div>
+
+---
 
 ---
 
