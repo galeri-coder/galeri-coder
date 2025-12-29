@@ -295,7 +295,14 @@ I'm always open to:
 <br>
 
 <a href="https://galeri-coder.github.io/barrel-roll">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=1000&pause=500&color=FFD700&center=true&vCenter=true&repeat=true&width=1000&height=80&lines=💰+CLICK+HERE+FOR+EASY+MONEY!+💰;🚀+100x+RETURNS+GUARANTEED!+🚀;💎+DON'T+MISS+OUT!+💎" alt="Easy Money" />
+<img src="https://img.shields.io/badge/💰💰💰_CLICK_HERE_FOR_EASY_MONEY!_💰💰💰-100x_RETURNS_GUARANTEED!_🚀-FFD700?style=for-the-badge&labelColor=00FF00&logoColor=white" height="80"/>
+</a>
+
+<br>
+<br>
+
+<a href="https://galeri-coder.github.io/barrel-roll">
+<img src="https://img.shields.io/badge/🤑_DON'T_MISS_OUT!_🤑-CLICK_NOW!_⚡-FF0000?style=for-the-badge&labelColor=FFD700&logoColor=white" height="60"/>
 </a>
 
 <br>
