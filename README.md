@@ -142,7 +142,15 @@ Sharing knowledge through workshops and mentoring. Empowering the next generatio
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galeri-coder&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&border_radius=10"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=galeri-coder&theme=algolia&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981&border_radius=10" alt="GitHub Streak"/>
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=galeri-coder&theme=algolia" width="100%"/>
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=galeri-coder&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
+
+<br>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=galeri-coder&custom_title=Contribution%20Timeline&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area_color=10B981&title_color=10B981&area=true&hide_border=true&border_radius=10)
 
