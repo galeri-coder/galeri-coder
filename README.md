@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=İLHAN%20ART&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Where%20Art%20Meets%20Technology&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=İLHAN%20ART&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Where%20Art%20Meets%20Technology&descAlignY=55&descSize=20" width="100%"/>
 
 </div>
 
@@ -8,15 +8,26 @@
 
 ### 🎨 **Digital Artist • Full-Stack Developer • Creative Technologist**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+My+Creative+Universe+%F0%9F%8C%8C;Transforming+Ideas+into+Digital+Art+%F0%9F%8E%A8;Building+the+Future+of+Art+%F0%9F%9A%80;Code+%2B+Creativity+%3D+Magic+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=900&height=100&lines=Welcome+to+My+Creative+Universe+%F0%9F%8C%8C;Transforming+Ideas+into+Digital+Art+%F0%9F%8E%A8;Building+the+Future+of+Art+%F0%9F%9A%80;Code+%2B+Creativity+%3D+Magic+%E2%9C%A8" alt="Typing SVG" />
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-https://www.ilhanart.org/-10b981?style=for-the-badge&logoColor=white)](https://ilhanart.org)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ilhanart.org-10b981?style=for-the-badge&logoColor=white)](https://www.ilhanart.org)
 [![Instagram](https://img.shields.io/badge/📸_Instagram-@ilhanartgaleri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ilhanartgaleri)
 [![Email](https://img.shields.io/badge/📧_Email-Say_Hello-10b981?style=for-the-badge)](mailto:galeri@ilhanart.org)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=galeri-coder&label=Profile%20Views&color=10b981&style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/galeri-coder/galeri-coder?style=for-the-badge&color=10b981)
+
+</div>
+
+---
+
+<div align="center">
+
+## 💭 **Dev Wisdom of the Day**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=代码如诗，艺术如画。%0A(Code%20is%20poetry,%20art%20is%20painting)&author=Ancient%20Chinese%20Proverb&border=true&borderColor=10b981" width="600"/>
 
 </div>
 
@@ -28,27 +39,37 @@
 const ilhanArt = {
   location: "Istanbul, Turkey 🇹🇷",
   role: "Founder & Lead Artist @ İlhan Art Studio",
-  focus: ["Digital Art", "Web Development", "Creative Coding"],
+  focus: ["Digital Art", "Web Development", "Creative Coding", "NFT"],
   passion: "Merging traditional art with cutting-edge technology",
   
-  dailyRoutine: () => {
-    while (alive) {
-      paint();
-      code();
+  code() {
+    while (caffeine > 0) {
+      create();
       innovate();
-      inspire();
+      iterate();
     }
+  },
+  
+  paint() {
+    let canvas = new Canvas();
+    canvas.applyColors(["#10b981", "#3b82f6", "#8b5cf6"]);
+    canvas.addMagic(Infinity);
+    return masterpiece;
   },
   
   currentProjects: [
     "🎨 Interactive Art Gallery Platform",
     "🖼️ NFT Collection Launch",
     "🎓 Digital Art Workshops",
-    "💻 Custom Web Solutions"
+    "💻 Custom Web Solutions",
+    "🌐 Web3 Art Marketplace"
   ],
   
-  lifePhilosophy: "Create art that speaks, build code that inspires"
+  lifePhilosophy: "Create art that speaks, build code that inspires",
+  coffeeConsumed: Infinity + "☕"
 };
+
+console.log("🎨 Creating magic...");
 ```
 
 ---
@@ -58,18 +79,21 @@ const ilhanArt = {
 <table>
 <tr>
 <td width="33%" align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
 
 ### 🖌️ **Digital Art**
 Action painting meets technology. Creating dynamic, expressive artworks that push creative boundaries.
 
 </td>
 <td width="33%" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 
 ### 💻 **Web Development**
 Building beautiful, responsive websites with modern tech stack. User experience is my art canvas.
 
 </td>
 <td width="33%" align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 
 ### 🎓 **Teaching**
 Sharing knowledge through workshops and mentoring. Empowering the next generation of digital artists.
@@ -84,29 +108,27 @@ Sharing knowledge through workshops and mentoring. Empowering the next generatio
 
 <div align="center">
 
-### **Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### **Languages & Frameworks**
 
-### **Frameworks & Libraries**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,html,css,python,react,nodejs,express,tailwind" />
 
-### **Design Tools**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white)
-![Procreate](https://img.shields.io/badge/Procreate-000000?style=flat-square&logo=procreate&logoColor=white)
+### **Design & Creative Tools**
 
-### **Dev Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-8B5CF6?style=flat-square&logo=anthropic&logoColor=white)
+<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender" />
+
+### **Dev Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,docker,firebase" />
+
+</div>
+
+<div align="center">
+
+```ascii
+╔══════════════════════════════════════════════════════════╗
+║  "Talk is cheap. Show me the code."  - Linus Torvalds   ║
+╚══════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -129,76 +151,43 @@ Sharing knowledge through workshops and mentoring. Empowering the next generatio
 
 ---
 
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=galeri-coder&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 🎯 **Featured Projects**
-
-<div align="center">
-
-<a href="https://github.com/galeri-coder/ilhanart-roadmap">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=galeri-coder&repo=ilhanart-roadmap&theme=algolia&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9&border_radius=10" />
-</a>
-
-<a href="https://github.com/galeri-coder/ilhanart">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=galeri-coder&repo=ilhanart&theme=algolia&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9&border_radius=10" />
-</a>
-
-</div>
-
----
-
 ## 💼 **What I'm Working On**
 
 <div align="center">
 
 ```mermaid
-pie title Time Allocation
-    "Digital Art Creation" : 35
-    "Web Development" : 30
-    "Client Projects" : 20
-    "Learning New Tech" : 10
-    "Community & Teaching" : 5
+pie title "Time Allocation"
+    "Digital Art Creation 🎨" : 35
+    "Web Development 💻" : 30
+    "Client Projects 💼" : 20
+    "Learning New Tech 📚" : 10
+    "Community & Teaching 🎓" : 5
 ```
 
 </div>
 
 **Currently Focused On:**
-- 🎨 Launching NFT art collection
-- 💻 Building interactive gallery platform
-- 🎓 Creating digital art course content
+- 🎨 Launching NFT art collection on Ethereum
+- 💻 Building interactive gallery platform with React
+- 🎓 Creating comprehensive digital art course
 - 🌐 Expanding global art community
-
----
-
-## 🌟 **Achievements & Milestones**
-
-<div align="center">
-
-| 🎨 Artworks | 👥 Clients | 🌍 Countries | ⭐ GitHub Stars |
-|:-----------:|:----------:|:------------:|:---------------:|
-| **500+** | **100+** | **25+** | **50+** |
-
-</div>
+- 🤖 Experimenting with AI-generated art
 
 ---
 
 ## 📈 **This Week I Spent My Time On**
 
+<div align="center">
+
 ```text
-🎨 Digital Art       ███████████░░░░░░   65%
-💻 Coding            ████████░░░░░░░░░   50%
-📚 Learning          █████░░░░░░░░░░░░   30%
-🎓 Teaching          ███░░░░░░░░░░░░░░   20%
-☕ Coffee Breaks     ███████████████░░   90%
+🎨 Digital Art       ████████████████░░░░░░░░   65.0%
+💻 Coding            ████████████░░░░░░░░░░░░   50.0%
+📚 Learning          ████████░░░░░░░░░░░░░░░░   32.0%
+🎓 Teaching          █████░░░░░░░░░░░░░░░░░░░   21.0%
+☕ Coffee Breaks     ███████████████████████░   95.0%
 ```
+
+</div>
 
 ---
 
@@ -209,16 +198,19 @@ pie title Time Allocation
 <table>
 <tr>
 <td width="33%">
-<img src="https://via.placeholder.com/300x300/10b981/ffffff?text=Action+Painting" alt="Action Painting"/>
-<p align="center"><b>Action Painting Series</b></p>
+<img src="https://via.placeholder.com/350x350/10b981/ffffff?text=Action+Painting+Series" alt="Action Painting"/>
+<p align="center"><b>⚡ Action Painting Series</b></p>
+<p align="center"><i>Dynamic movements captured in real-time</i></p>
 </td>
 <td width="33%">
-<img src="https://via.placeholder.com/300x300/10b981/ffffff?text=Drip+Art" alt="Drip Art"/>
-<p align="center"><b>Drip Art Collection</b></p>
+<img src="https://via.placeholder.com/350x350/3b82f6/ffffff?text=Drip+Art+Collection" alt="Drip Art"/>
+<p align="center"><b>💧 Drip Art Collection</b></p>
+<p align="center"><i>Fluid art meets digital innovation</i></p>
 </td>
 <td width="33%">
-<img src="https://via.placeholder.com/300x300/10b981/ffffff?text=Digital+Abstract" alt="Digital Abstract"/>
-<p align="center"><b>Digital Abstracts</b></p>
+<img src="https://via.placeholder.com/350x350/8b5cf6/ffffff?text=Digital+Abstracts" alt="Digital Abstract"/>
+<p align="center"><b>🌌 Digital Abstracts</b></p>
+<p align="center"><i>Where code becomes canvas</i></p>
 </td>
 </tr>
 </table>
@@ -227,14 +219,28 @@ pie title Time Allocation
 
 ---
 
+<div align="center">
+
+## 💡 **Random Dev Quotes**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=2000&color=10B981&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=Any+fool+can+write+code+that+a+computer+can+understand.;Good+programmers+write+code+that+humans+can+understand.;-+Martin+Fowler" alt="Quote" />
+
+</div>
+
+---
+
 ## 📝 **Latest Blog Posts**
 
+<div align="center">
+
 <!-- BLOG-POST-LIST:START -->
-- 🎨 The Future of Digital Art in Web3
-- 💻 Building Interactive Art Galleries with React
-- 🖌️ From Canvas to Code: My Journey
-- 🚀 How AI is Transforming Creative Process
+📌 [The Future of Digital Art in Web3](https://ilhanart.org/blog/web3-art)  
+📌 [Building Interactive Art Galleries with React](https://ilhanart.org/blog/react-gallery)  
+📌 [From Canvas to Code: My Journey](https://ilhanart.org/blog/my-journey)  
+📌 [How AI is Transforming Creative Process](https://ilhanart.org/blog/ai-art)  
 <!-- BLOG-POST-LIST:END -->
+
+</div>
 
 ---
 
@@ -250,7 +256,7 @@ I'm always open to:
 
 ### **Find Me On:**
 
-[![Website](https://img.shields.io/badge/🌐_Website-ilhanart.org-10b981?style=for-the-badge)](https://ilhanart.org)
+[![Website](https://img.shields.io/badge/🌐_Website-ilhanart.org-10b981?style=for-the-badge)](https://www.ilhanart.org)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ilhanartgaleri)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/İlhanARTLive)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Galerilhan)
@@ -261,22 +267,67 @@ I'm always open to:
 
 ---
 
-## 💭 **Random Dev Quote**
-
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Code%20is%20like%20art,%20it%20requires%20passion%20and%20creativity&author=İlhan%20Art)
+## 🎯 **Fun Challenge Zone**
+
+### **⚠️ Click at Your Own Risk! ⚠️**
+
+<details>
+<summary><b>🚀 OPEN LONG POSITION (100x Leverage)</b></summary>
+
+<br>
+
+```
+⚠️  INITIATING TRADE...
+⚠️  LEVERAGE: 100x
+⚠️  POSITION: LONG $ART/USDT
+⚠️  LOADING...
+
+██████████████████████████████  100%
+
+🎢 WHEEEEEEE!!!
+```
+
+<div align="center">
+<img src="https://media.giphy.com/media/VHHxxFAeLaYzS/giphy.gif" width="300"/>
+
+## **🤮 REKT! 🤮**
+
+```
+❌ LIQUIDATED!
+❌ Account Balance: $0.00
+❌ PnL: -100%
+
+💬 "Kusura bakma kardeşim, 
+    bizde kaldıraca yer yok...
+    Çok döndü başımız! 🤯"
+```
+
+### **📚 Lesson Learned:**
+*"Don't trade with 100x leverage, kids. Also, this is why we code instead of trade."*
+
+<img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" width="200"/>
+
+**🎨 Stick to art, not charts! 💚**
+
+</div>
+
+</details>
 
 </div>
 
 ---
 
-## 😄 **Fun Fact**
+## 😄 **Fun Facts**
 
 <div align="center">
 
-> I can paint with both hands simultaneously while debugging code in my head! 🎨💻  
-> *Coffee consumption: ∞ cups/day* ☕
+> 🎨 I can paint with both hands simultaneously while debugging code in my head!  
+> 💻 My code is like my art - sometimes abstract, always intentional  
+> ☕ Coffee consumption: **∞ cups/day** (scientifically proven)  
+> 🌙 Best ideas come at 3 AM (along with the weirdest bugs)  
+> 🎮 Can solve a Rubik's cube while explaining recursion
 
 </div>
 
@@ -301,12 +352,40 @@ Visit our [Support Page](https://www.ilhanart.org/support) to see how you can he
 
 <div align="center">
 
+## 🌟 **Inspirational Tech Quotes**
+
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║  "First, solve the problem. Then, write the code."          ║
+║  — John Johnson                                              ║
+║                                                               ║
+║  "Code is like humor. When you have to explain it,          ║
+║   it's bad."                                                 ║
+║  — Cory House                                                ║
+║                                                               ║
+║  "Experience is the name everyone gives to their mistakes."  ║
+║  — Oscar Wilde                                               ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
 ### 💚 **Thank You for Visiting!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&repeat=true&width=600&lines=Keep+Creating+%F0%9F%8E%A8;Keep+Coding+%F0%9F%92%BB;Keep+Inspiring+%E2%9C%A8;See+You+in+the+Metaverse!+%F0%9F%8C%8C" alt="Farewell" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=twinkling" width="100%"/>
 
 **Made with ❤️, 🎨, and countless ☕ by İlhan Art**
 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=galeri-coder&label=Total%20Visitors&countColor=%2310b981&style=for-the-badge&labelStyle=upper)](https://visitorbadge.io/status?path=galeri-coder)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/> <em><b>Happy coding and creating!</b> 🚀</em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="60"/>
 
 </div>
