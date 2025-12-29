@@ -269,62 +269,51 @@ I'm always open to:
 
 <div align="center">
 
-## 🎯 **Trading Simulator**
+---
 
-### **⚠️ Not Financial Advice ⚠️**
+## 💰 **EASY MONEY ZONE** 💰
 
-<details>
-<summary><b>🚀 OPEN LONG POSITION (100x Leverage) 🚀</b></summary>
+<img src="https://media.giphy.com/media/67ThRZlYBvibtdF9JH/giphy.gif" width="100%"/>
 
-<br>
+### 🚀 **MAKE MONEY FAST! CLICK HERE!** 🚀
 
-<div align="center">
-
-### **Do you really want to open it?** 🤔
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://media.giphy.com/media/lOiJqCjiEOcmc/giphy.gif" width="200"/>
+<h3>💸 INSTANT PROFIT 💸</h3>
+<p><b>100x Leverage Available!</b></p>
+</td>
+<td width="50%" align="center">
+<img src="https://media.giphy.com/media/n59dQcO9yaaaY/giphy.gif" width="200"/>
+<h3>🤑 GET RICH QUICK 🤑</h3>
+<p><b>One Click Away!</b></p>
+</td>
+</tr>
+</table>
 
 <br>
 
 <a href="https://galeri-coder.github.io/barrel-roll">
-<img src="https://img.shields.io/badge/💸_YES,_LONG!-100x_Leverage-FF0000?style=for-the-badge&logo=bitcoin&logoColor=white" width="300"/>
+<img src="https://img.shields.io/badge/💰_CLICK_HERE_FOR_EASY_MONEY!-100x_Returns_GUARANTEED!-00FF00?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=FFD700" height="60"/>
 </a>
 
-<br><br>
-
-```
-⚠️  WARNING: Side effects may include:
-    - Barrel rolls 🎢
-    - Dizziness 🤢  
-    - Empty wallets 💸
-    - Existential crisis 😵
-```
-
 <br>
 
-<img src="https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/3oKIPa2TdahY8LAAxy/giphy.gif" width="300"/>
 
-### **💬 Advice:**
+### **📈 TRENDING NOW! 📈**
 
 ```
-┌─────────────────────────────────────────┐
-│                                         │
-│   "No leverage here. 🚫                │
-│    Too much spinning! 🤯               │
-│                                         │
-│    That's why we create art,           │
-│    not chase charts! 🎨"               │
-│                                         │
-│                     - İlhan Art Studio  │
-│                                         │
-└─────────────────────────────────────────┘
+🔥 HOTTEST OPPORTUNITY OF 2025! 🔥
+💎 Diamond Hands Guaranteed!     💎
+🚀 To The Moon!                  🚀
+⚡ FOMO Intensifies...            ⚡
 ```
 
-<br>
+<img src="https://media.giphy.com/media/trN9ht5RlE3Dcwavg2/giphy.gif" width="400"/>
 
-**🎨 Better investment: Create art, not losses! 💚**
-
-</div>
-
-</details>
+---
 
 </div>
 
@@ -334,11 +323,12 @@ I'm always open to:
 
 <div align="center">
 
-> 🎨 I can paint with both hands simultaneously while debugging code in my head!  
-> 💻 My code is like my art - sometimes abstract, always intentional  
-> ☕ Coffee consumption: **∞ cups/day** (scientifically proven)  
-> 🌙 Best ideas come at 3 AM (along with the weirdest bugs)  
-> 🎮 Can solve a Rubik's cube while explaining recursion
+> 🎨 Paint dries faster than my CI/CD pipeline  
+> 💻 "It works on my machine" - also applies to art  
+> ☕ My coffee consumption violates the laws of thermodynamics  
+> 🐛 More bugs in my code than colors on my palette  
+> 🌙 3 AM: When bugs reveal themselves and ideas strike  
+> 🎮 High score: 47 browser tabs open while coding
 
 </div>
 
