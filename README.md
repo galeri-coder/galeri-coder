@@ -225,59 +225,59 @@ I'm always open to:
 
 <h1>
 <a href="https://galeri-coder.github.io/barrel-roll" style="text-decoration: none;">
-🚀 LONG İŞLEM AÇ - 100x KALDIRAÇ 🚀
+🚀 OPEN LONG POSITION - 100x LEVERAGE 🚀
 </a>
 </h1>
 
 <img src="https://media.giphy.com/media/YnkMcHgNIMW4Yfmjxr/giphy.gif" width="500"/>
 
-### **📰 SON DAKİKA BORSA HABERLERİ 📰**
+### **📰 BREAKING NEWS FROM EXCHANGES 📰**
 
 ```
-🔴 BLOOMBERG: "Tarihin En Büyük Fırsatı!" 💰
-🔴 REUTERS: "$100'dan $1 Milyona Çıktı!" 🚀
-🔴 CNBC: "Wall Street Çılgına Döndü!" 📈
-🔴 FINANCIAL TIMES: "Yeni Bitcoin Bulundu!" ⚡
-🔴 FORBES: "Milyonerler Bu Projeye Yatırım Yapıyor!" 💎
-🔴 WSJ: "FED Onayladı, SEC İzin Verdi!" ✅
-🔴 COINDESK: "99 Borsada Aynı Anda Listelendi!" 🏆
-🔴 YAHOO FINANCE: "Elon Musk Tweetledi!" 🐦
-🔴 MARKETWATCH: "Tarihin En Hızlı Yükselişi!" 📊
-🔴 BARRON'S: "Warren Buffett Yatırım Yaptı!" 💰
-🔴 ECONOMIST: "Ekonominin Geleceği Bu Projede!" 🌍
-🔴 NIKKEI: "Asya Borsaları Durdu, Herkes Bunu İzliyor!" 🇯🇵
+🔴 BLOOMBERG: "The Greatest Opportunity in History!" 💰
+🔴 REUTERS: "Turned $100 into $1 Million!" 🚀
+🔴 CNBC: "Wall Street Goes Crazy!" 📈
+🔴 FINANCIAL TIMES: "New Bitcoin Discovered!" ⚡
+🔴 FORBES: "Billionaires Are Investing in This!" 💎
+🔴 WSJ: "FED Approved, SEC Authorized!" ✅
+🔴 COINDESK: "Listed on 99 Exchanges Simultaneously!" 🏆
+🔴 YAHOO FINANCE: "Elon Musk Just Tweeted!" 🐦
+🔴 MARKETWATCH: "Fastest Rise in History!" 📊
+🔴 BARRON'S: "Warren Buffett Made Investment!" 💰
+🔴 ECONOMIST: "The Future of Economy!" 🌍
+🔴 NIKKEI: "Asian Markets Stopped, Everyone Watching!" 🇯🇵
 ```
 
 <br>
 
-### **🎯 ŞİMDİ HAREKETE GEÇ! 🎯**
+### **🎯 ACT NOW! 🎯**
 
 <a href="https://galeri-coder.github.io/barrel-roll">
-<img src="https://img.shields.io/badge/💎_LONG_AÇ-100x_KALDIRAÇ-FFD700?style=for-the-badge&labelColor=00FF00&logoColor=white" height="60"/>
+<img src="https://img.shields.io/badge/💎_OPEN_LONG-100x_LEVERAGE-FFD700?style=for-the-badge&labelColor=00FF00&logoColor=white" height="60"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://galeri-coder.github.io/barrel-roll">
-<img src="https://img.shields.io/badge/🚀_HEMEN_AL-KAYIP_ETME-FF1493?style=for-the-badge&labelColor=00FFFF&logoColor=white" height="60"/>
+<img src="https://img.shields.io/badge/🚀_BUY_NOW-DON'T_MISS_OUT-FF1493?style=for-the-badge&labelColor=00FFFF&logoColor=white" height="60"/>
 </a>
 
 <br>
 
 <a href="https://galeri-coder.github.io/barrel-roll">
-<img src="https://img.shields.io/badge/⚡_İŞLEM_BAŞLAT-GARANTİLİ_KÂR-FF4500?style=for-the-badge&labelColor=32CD32&logoColor=white" height="60"/>
+<img src="https://img.shields.io/badge/⚡_START_TRADING-GUARANTEED_PROFIT-FF4500?style=for-the-badge&labelColor=32CD32&logoColor=white" height="60"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://galeri-coder.github.io/barrel-roll">
-<img src="https://img.shields.io/badge/💰_YATIRIM_YAP-RİSKSİZ-00FF00?style=for-the-badge&labelColor=8B00FF&logoColor=white" height="60"/>
+<img src="https://img.shields.io/badge/💰_INVEST_NOW-RISK_FREE-00FF00?style=for-the-badge&labelColor=8B00FF&logoColor=white" height="60"/>
 </a>
 
 <br>
 
 <a href="https://galeri-coder.github.io/barrel-roll">
-<img src="https://img.shields.io/badge/🔥_SON_3_KOTA-ACELE_ET-FF6347?style=for-the-badge&labelColor=1E90FF&logoColor=white" height="60"/>
+<img src="https://img.shields.io/badge/🔥_ONLY_3_SPOTS_LEFT-HURRY_UP-FF6347?style=for-the-badge&labelColor=1E90FF&logoColor=white" height="60"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://galeri-coder.github.io/barrel-roll">
-<img src="https://img.shields.io/badge/💎_SATINAL-LAMBOYA_ULAŞ-FFD700?style=for-the-badge&labelColor=FF0000&logoColor=white" height="60"/>
+<img src="https://img.shields.io/badge/💎_GET_YOUR_LAMBO-BUY_NOW-FFD700?style=for-the-badge&labelColor=FF0000&logoColor=white" height="60"/>
 </a>
 
 ---
@@ -295,18 +295,64 @@ I'm always open to:
 If something looks too good to be true, it probably is.  
 Legitimate opportunities don't need flashy animations and "GUARANTEED RETURNS!" claims.
 
-**Real wealth is built through:**
-- 🎨 Creating value (art, code, knowledge)
-- 📚 Continuous learning and skill development
-- 🤝 Building genuine relationships and communities
-- ⏳ Patience and consistent effort over time
-
-**Remember:** If you clicked the button above, you just experienced what FOMO (Fear Of Missing Out) feels like.  
-Learn to recognize these tactics, and you'll save yourself from many financial disasters.
-
-💡 *Stay curious, stay skeptical, stay safe.*
-
 </div>
+
+### **🔴 Red Flags to Watch Out For:**
+
+**1. Self-Promotion & Hype** 🎪
+- If a project constantly brags about itself, it's very likely a scam
+- Real projects let their technology and adoption speak for themselves
+- Excessive marketing = desperate for your money
+
+**2. "Trusted" Team Background Means Nothing** 👥
+- Even projects claiming connections to major exchanges (like B*nance) have scammed people
+- Team reputation doesn't guarantee honesty
+- Past success ≠ future integrity
+
+**3. Large Communities Can Be Deceived** 🐑
+- Millions of followers doesn't mean safety
+- Remember: Ponzi schemes work until they don't
+- Everyone can be wrong together
+
+**4. "Slow Rugging" Tactics** 🐌💀
+- Projects like LUNA gradually increased supply
+- Small, incremental damage doesn't trigger immediate panic
+- By the time you notice, it's too late
+- Boiling frog syndrome: slow destruction is harder to detect
+
+**5. Too Many Exchange Listings** 🏦
+- Listing on 99 exchanges in one day? **RED FLAG**
+- Real projects launch carefully and strategically
+- Mass listings = pump and dump scheme
+
+**6. Celebrity Endorsements Are Bought** 🌟
+- Elon tweeted? Probably fake or paid
+- Celebrities get paid to promote scams
+- Do your own research (DYOR)
+
+**7. Urgency & FOMO Tactics** ⏰
+- "Only 3 spots left!" = psychological manipulation
+- "Offer expires in 59 seconds!" = artificial pressure
+- Real investments don't have countdown timers
+
+---
+
+### **✅ Real Wealth is Built Through:**
+
+- 🎨 **Creating Value** - Build products, services, or art that people need
+- 📚 **Continuous Learning** - Invest in your skills and knowledge
+- 🤝 **Building Relationships** - Network with genuine people and communities
+- ⏳ **Patience & Consistency** - Compound growth takes time, not hours
+- 💡 **Critical Thinking** - Question everything, especially "guaranteed" returns
+
+---
+
+### **💡 Remember:**
+
+> **If you clicked the button above, you just experienced FOMO (Fear Of Missing Out).**  
+> Learn to recognize these manipulation tactics, and you'll save yourself from financial disasters.
+
+**Stay curious. Stay skeptical. Stay safe.** 🛡️
 
 ---
 
