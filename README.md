@@ -12,9 +12,9 @@
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ilhanart.com-10b981?style=for-the-badge&logoColor=white)](https://ilhanart.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ilhanart.org-10b981?style=for-the-badge&logoColor=white)](https://ilhanart.org)
 [![Instagram](https://img.shields.io/badge/📸_Instagram-@ilhanart-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ilhanart)
-[![Email](https://img.shields.io/badge/📧_Email-Say_Hello-10b981?style=for-the-badge)](mailto:contact@ilhanart.com)
+[![Email](https://img.shields.io/badge/📧_Email-Say_Hello-10b981?style=for-the-badge)](mailto:galeri@ilhanart.org)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=galeri-coder&label=Profile%20Views&color=10b981&style=for-the-badge)
 
@@ -250,7 +250,7 @@ I'm always open to:
 
 ### **Find Me On:**
 
-[![Website](https://img.shields.io/badge/🌐_Website-ilhanart.com-10b981?style=for-the-badge)](https://ilhanart.com)
+[![Website](https://img.shields.io/badge/🌐_Website-ilhan-10b981?style=for-the-badge)](https://ilhanart.org)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ilhanart)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ilhanart)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilhanart)
@@ -288,7 +288,7 @@ I'm always open to:
 If you appreciate what I create, consider:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-☕-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ilhanart)
-[![Commission](https://img.shields.io/badge/Commission%20Art-🎨-10b981?style=for-the-badge)](https://ilhanart.com/commission)
+[![Commission](https://img.shields.io/badge/Commission%20Art-🎨-10b981?style=for-the-badge)](https://ilhanrt.org/commission)
 [![Star Repos](https://img.shields.io/badge/⭐_Star_My_Repos-10b981?style=for-the-badge)](https://github.com/galeri-coder?tab=repositories)
 
 </div>
