@@ -12,7 +12,7 @@
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ilhanart.org-10b981?style=for-the-badge&logoColor=white)](https://ilhanart.org)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-https://www.ilhanart.org/-10b981?style=for-the-badge&logoColor=white)](https://ilhanart.org)
 [![Instagram](https://img.shields.io/badge/📸_Instagram-@ilhanartgaleri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ilhanartgaleri)
 [![Email](https://img.shields.io/badge/📧_Email-Say_Hello-10b981?style=for-the-badge)](mailto:galeri@ilhanart.org)
 
