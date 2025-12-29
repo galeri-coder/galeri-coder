@@ -138,10 +138,9 @@ Sharing knowledge through workshops and mentoring. Empowering the next generatio
 
 <div align="center">
 
-<a href="https://github.com/galeri-coder">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galeri-coder&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galeri-coder&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&border_radius=10"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=galeri-coder&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9&border_radius=10"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galeri-coder&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&border_radius=10"/>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=galeri-coder&theme=algolia&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakLabel=10B981&border_radius=10)](https://git.io/streak-stats)
 
@@ -226,134 +225,60 @@ I'm always open to:
 
 <h1>
 <a href="https://galeri-coder.github.io/barrel-roll" style="text-decoration: none;">
-💰💰💰 MAKE MONEY FAST! CLICK HERE! 💰💰💰
+🚀 LONG İŞLEM AÇ - 100x KALDIRAÇ 🚀
 </a>
 </h1>
 
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://media.giphy.com/media/lOiJqCjiEOcmc/giphy.gif" width="200"/>
-<h3>💸 INSTANT PROFIT 💸</h3>
-<p><b>100x Leverage Available!</b></p>
-</td>
-<td width="50%" align="center">
-<img src="https://media.giphy.com/media/n59dQcO9yaaaY/giphy.gif" width="200"/>
-<h3>🤑 GET RICH QUICK 🤑</h3>
-<p><b>One Click Away!</b></p>
-</td>
-</tr>
-</table>
+<img src="https://media.giphy.com/media/YnkMcHgNIMW4Yfmjxr/giphy.gif" width="500"/>
+
+### **📰 SON DAKİKA BORSA HABERLERİ 📰**
+
+```
+🔴 BLOOMBERG: "Tarihin En Büyük Fırsatı!" 💰
+🔴 REUTERS: "$100'dan $1 Milyona Çıktı!" 🚀
+🔴 CNBC: "Wall Street Çılgına Döndü!" 📈
+🔴 FINANCIAL TIMES: "Yeni Bitcoin Bulundu!" ⚡
+🔴 FORBES: "Milyonerler Bu Projeye Yatırım Yapıyor!" 💎
+🔴 WSJ: "FED Onayladı, SEC İzin Verdi!" ✅
+🔴 COINDESK: "99 Borsada Aynı Anda Listelendi!" 🏆
+🔴 YAHOO FINANCE: "Elon Musk Tweetledi!" 🐦
+🔴 MARKETWATCH: "Tarihin En Hızlı Yükselişi!" 📊
+🔴 BARRON'S: "Warren Buffett Yatırım Yaptı!" 💰
+🔴 ECONOMIST: "Ekonominin Geleceği Bu Projede!" 🌍
+🔴 NIKKEI: "Asya Borsaları Durdu, Herkes Bunu İzliyor!" 🇯🇵
+```
 
 <br>
 
-### **🚀 LIMITED TIME OFFER! 🚀**
+### **🎯 ŞİMDİ HAREKETE GEÇ! 🎯**
 
 <a href="https://galeri-coder.github.io/barrel-roll">
-<img src="https://img.shields.io/badge/💎_BECOME_A_MILLIONAIRE_TODAY!-GUARANTEED_RETURNS!-00FF00?style=for-the-badge&labelColor=FFD700&logoColor=white" height="70"/>
+<img src="https://img.shields.io/badge/💎_LONG_AÇ-100x_KALDIRAÇ-FFD700?style=for-the-badge&labelColor=00FF00&logoColor=white" height="60"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://galeri-coder.github.io/barrel-roll">
+<img src="https://img.shields.io/badge/🚀_HEMEN_AL-KAYIP_ETME-FF1493?style=for-the-badge&labelColor=00FFFF&logoColor=white" height="60"/>
 </a>
 
 <br>
 
 <a href="https://galeri-coder.github.io/barrel-roll">
-<img src="https://img.shields.io/badge/🚀_1000%25_PROFIT_IN_24_HOURS!-JOIN_NOW!-FF1493?style=for-the-badge&labelColor=00FFFF&logoColor=white" height="70"/>
+<img src="https://img.shields.io/badge/⚡_İŞLEM_BAŞLAT-GARANTİLİ_KÂR-FF4500?style=for-the-badge&labelColor=32CD32&logoColor=white" height="60"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://galeri-coder.github.io/barrel-roll">
+<img src="https://img.shields.io/badge/💰_YATIRIM_YAP-RİSKSİZ-00FF00?style=for-the-badge&labelColor=8B00FF&logoColor=white" height="60"/>
 </a>
 
 <br>
 
 <a href="https://galeri-coder.github.io/barrel-roll">
-<img src="https://img.shields.io/badge/⚡_LAMBO_BY_TOMORROW!-CLICK_HERE!-FF4500?style=for-the-badge&labelColor=32CD32&logoColor=white" height="70"/>
+<img src="https://img.shields.io/badge/🔥_SON_3_KOTA-ACELE_ET-FF6347?style=for-the-badge&labelColor=1E90FF&logoColor=white" height="60"/>
 </a>
-
-<br>
-
+&nbsp;&nbsp;
 <a href="https://galeri-coder.github.io/barrel-roll">
-<img src="https://img.shields.io/badge/💰_TURN_$100_INTO_$10,000!-NO_RISK!-FFD700?style=for-the-badge&labelColor=FF0000&logoColor=white" height="70"/>
+<img src="https://img.shields.io/badge/💎_SATINAL-LAMBOYA_ULAŞ-FFD700?style=for-the-badge&labelColor=FF0000&logoColor=white" height="60"/>
 </a>
-
-<br>
-
-<a href="https://galeri-coder.github.io/barrel-roll">
-<img src="https://img.shields.io/badge/🤑_FINANCIAL_FREEDOM_AWAITS!-START_NOW!-00FF00?style=for-the-badge&labelColor=8B00FF&logoColor=white" height="70"/>
-</a>
-
-<br>
-
-<a href="https://galeri-coder.github.io/barrel-roll">
-<img src="https://img.shields.io/badge/🔥_HOTTEST_INVESTMENT_2025!-DON'T_MISS!-FF6347?style=for-the-badge&labelColor=1E90FF&logoColor=white" height="70"/>
-</a>
-
-<br>
-
-<img src="https://media.giphy.com/media/3oKIPa2TdahY8LAAxy/giphy.gif" width="300"/>
-
-<br>
-
-<img src="https://media.giphy.com/media/YnkMcHgNIMW4Yfmjxr/giphy.gif" width="400"/>
-
-### **📈 LISTED ON 99 EXCHANGES IN 1 DAY! 📈**
-
-<img src="https://media.giphy.com/media/trN9ht5RlE3Dcwavg2/giphy.gif" width="500"/>
-
-```
-🏆 BINANCE      ✅ | 🏆 COINBASE     ✅ | 🏆 KRAKEN       ✅
-🏆 FTX          ✅ | 🏆 GEMINI       ✅ | 🏆 HUOBI        ✅
-🏆 BITFINEX     ✅ | 🏆 POLONIEX    ✅ | 🏆 BYBIT        ✅
-🏆 KUCOIN       ✅ | 🏆 OKX         ✅ | 🏆 GATE.IO      ✅
-🏆 BITTREX      ✅ | 🏆 BITSTAMP    ✅ | 🏆 CRYPTO.COM   ✅
-
-💎 AND 84 MORE EXCHANGES! 💎
-```
-
-### **🔥 TRENDING NOW! 🔥**
-
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300"/>
-
-```
-🚀 #1 TRENDING ON TWITTER!           🚀
-💰 ELON MUSK JUST TWEETED ABOUT IT!  💰
-🔥 BEZOS INVESTED $1 BILLION!        🔥
-⚡ MARK CUBAN: "REVOLUTIONARY!"      ⚡
-💎 WARREN BUFFETT APPROVED!          💎
-🤑 CATHIE WOOD: "NEXT BITCOIN!"      🤑
-```
-
-<img src="https://media.giphy.com/media/l0HlHFRbmaZtBRhXG/giphy.gif" width="400"/>
-
-### **💥 EXCLUSIVE BONUSES! 💥**
-
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150"/>
-<p>🎁 <b>FREE LAMBO</b></p>
-<p><i>With first investment!</i></p>
-</td>
-<td width="33%" align="center">
-<img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="150"/>
-<p>🏝️ <b>FREE YACHT</b></p>
-<p><i>After 24 hours!</i></p>
-</td>
-<td width="33%" align="center">
-<img src="https://media.giphy.com/media/3o7TKwmnDgQb5jemjK/giphy.gif" width="150"/>
-<p>✈️ <b>PRIVATE JET</b></p>
-<p><i>Guaranteed bonus!</i></p>
-</td>
-</tr>
-</table>
-
-<img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="500"/>
-
-### **⚠️ ONLY 3 SPOTS LEFT! ⚠️**
-
-```
-👥 847,293 PEOPLE JOINED TODAY!
-💰 $2.4 BILLION INVESTED IN LAST HOUR!
-🚀 PRICE INCREASED 9,847% THIS WEEK!
-⏰ OFFER EXPIRES IN: 00:00:59
-```
-
-<img src="https://media.giphy.com/media/Y4z9olnoVl5QI/giphy.gif" width="400"/>
 
 ---
 
