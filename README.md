@@ -238,7 +238,7 @@ I'm always open to:
 
 <h1>
 <a href="https://galeri-coder.github.io/barrel-roll" style="text-decoration: none;">
-🚀 EXPERIENCE FOMO MANIPULATION (CLICK TO LEARN) 🚀
+🚀 100x LONG FOMO MANIPULATION (CLICK TO LEARN) 🚀
 </a>
 </h1>
 
