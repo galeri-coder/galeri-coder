@@ -44,56 +44,91 @@ I'm building a new **protocol**: the constitution, governance, timeline, UI tool
 
   ```text
   ilhanart-roadmap/
-  │
-  ├─ README.md                          [ROOT IDENTITY]
-  │
-  ├─ protocols/                         [CONSTITUTION: rules & governance]
-  │  ├─ README.md                       (index / navigation)
-  │  ├─ fpp-core/                       [CORE RULES: hardest to change]
-  │  │  ├─ README.md
-  │  │  ├─ founding-patrons-protocol-EN.md
-  │  │  ├─ founding-patrons-protocol-TR.md
-  │  │  ├─ governance.md
-  │  │  └─ authority-appeals.md
-  │  ├─ fpp-extensions/                 [EXTENSIONS: benefits / utilities]
-  │  │  ├─ README.md
-  │  │  ├─ community-privileges.md
-  │  │  ├─ holder-tiers.md
-  │  │  ├─ nft-benefits.md
-  │  │  └─ token-utility.md
-  │  └─ ecosystem/                      [EXPANSION: events / venues / infra]
-  │     ├─ README.md
-  │     ├─ Events.md
-  │     ├─ venue-partnerships.md
-  │     ├─ physical-infrastructure.md
-  │     └─ meme-coin-killer.md
-  │
-  ├─ registry/                          [ARCHIVE: proof & notarization]
-  │  ├─ README.md
-  │  ├─ digitalnotary.md                (how the notary works + JSON schema)
-  │  ├─ ILHAN-2025-REG-001.json         (genesis entry)
-  │  ├─ snapshots/
-  │  ├─ merkle-roots/
-  │  └─ contribution-proofs/
-  │
-  ├─ ui-infrastructure/                 [INTERFACE: browser-facing tools]
-  │  ├─ README.md
-  │  ├─ founding-patron-calculator-EN.html
-  │  ├─ founding-patron-calculator-TR.html
-  │  ├─ founding-patrons-premium.css
-  │  ├─ dom-optimization.js
-  │  ├─ nuclear-shield.css
-  │  └─ exhibition-components/
-  │
-  ├─ roadmap/                           [TIME: stages & timeline]
-  │  ├─ README.md
-  │  ├─ Green-Blue-Stages.md
-  │  ├─ Purple-Stages-1.md
-  │  └─ Purple-Stages-2.md
-  │
-  └─ initiatives/                       [PROJECTS: living missions]
-     └─ translation/
-        └─ README.md
+│
+├─ README.md
+│   → Root identity + summary of the protocol structure
+│
+├─ protocols/                         [CONSTITUTION: Rules & Governance]
+│  ├─ README.md                       → Navigation for protocol documents
+│  │
+│  ├─ fpp-core/                       [CORE RULES: Hardest to change layer]
+│  │  ├─ README.md
+│  │  ├─ founding-patrons-protocol-EN.md
+│  │  ├─ founding-patrons-protocol-TR.md
+│  │  ├─ governance.md
+│  │  └─ authority-appeals.md
+│  │
+│  ├─ fpp-extensions/                 [EXTENSIONS: Benefits / Utilities]
+│  │  ├─ README.md
+│  │  ├─ community-privileges.md
+│  │  ├─ holder-tiers.md
+│  │  ├─ nft-benefits.md
+│  │  └─ token-utility.md
+│  │
+│  └─ ecosystem/                      [EXPANSION: Events / Venues / Infra]
+│     ├─ README.md
+│     ├─ Events.md
+│     ├─ venue-partnerships.md
+│     ├─ physical-infrastructure.md
+│     └─ meme-coin-killer.md
+│
+│
+├─ registry/                          [ARCHIVE: Proof & Notarization]
+│  ├─ README.md
+│  ├─ digitalnotary.md                → How the notary works + JSON schema
+│  ├─ ILHAN-2025-REG-001.json         → Genesis verified entry
+│  ├─ snapshots/                      → Historical JSON snapshots
+│  ├─ merkle-roots/                   → Merkle proofs of registry states
+│  └─ contribution-proofs/            → Evidence of individual entries
+│
+│
+├─ ui-infrastructure/                 [INTERFACE: Browser-facing tools]
+│  ├─ README.md
+│  │
+│  ├─ founding-patron-calculator-EN.html
+│  ├─ founding-patron-calculator-TR.html
+│  ├─ founding-patrons-premium.css
+│  ├─ dom-optimization.js
+│  ├─ nuclear-shield.css
+│  │
+│  ├─ exhibition-components/          → Shared UI building blocks
+│  │
+│  └─ site/
+│     └─ v1.0/                        [Main public interface v1.0]
+│        │
+│        ├─ index.html                → Landing / Overview
+│        ├─ poart.html                → Proof of Art (PoArt)
+│        ├─ fpp.html                  → Founding Patrons Protocol
+│        ├─ notary.html               → Digital Notary UI
+│        ├─ public-registry.html      → Public Registry Viewer
+│        ├─ consult.html              → Apply / Submit form
+│        ├─ doc.html, docs.html       → Viewer for markdown docs
+│        │
+│        ├─ components/
+│        │   ├─ nav.html              → Injected top navigation bar
+│        │   └─ footer.html           → Injected footer
+│        │
+│        ├─ assets/
+│        │   ├─ css/
+│        │   │   └─ v1.css            → ✅ Final “F.P.P Glass” dark theme
+│        │   │
+│        │   └─ js/
+│        │       └─ v1.js             → Dynamic loader for nav/footer + active link
+│        │
+│        └─ registry/                 → (optional local data mirror)
+│
+│
+├─ roadmap/                           [TIME: Stages & Timeline]
+│  ├─ README.md
+│  ├─ Green-Blue-Stages.md
+│  ├─ Purple-Stages-1.md
+│  └─ Purple-Stages-2.md
+│
+│
+└─ initiatives/                       [PROJECTS: Living Missions]
+   └─ translation/
+      └─ README.md                    → Translation mission docs
+
   ```
 </details>
 
