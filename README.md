@@ -22,10 +22,7 @@
 </div>
 
 ---
-
 <div align="center">
-
-## 💭 **Dev Wisdom of the Day**
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=代码如诗，艺术如画。%0A(Code%20is%20poetry,%20art%20is%20painting)&author=Ancient%20Chinese%20Proverb&border=true&borderColor=10b981" width="600"/>
 
@@ -41,7 +38,7 @@ const ilhanArt = {
   role: "Founder & Lead Artist @ İlhan Art Studio",
   focus: ["Digital Art", "Web Development", "Creative Coding", "NFT"],
   passion: "Merging traditional art with cutting-edge technology",
-  
+
   code() {
     while (caffeine > 0) {
       create();
@@ -49,22 +46,22 @@ const ilhanArt = {
       iterate();
     }
   },
-  
+
   paint() {
     let canvas = new Canvas();
     canvas.applyColors(["#10b981", "#3b82f6", "#8b5cf6"]);
     canvas.addMagic(Infinity);
     return masterpiece;
   },
-  
+
   currentProjects: [
     "🎨 Interactive Art Gallery Platform",
-    "🖼️ NFT Collection Launch",
+    "🖼️ NFT Collection Building",
     "🎓 Digital Art Workshops",
     "💻 Custom Web Solutions",
     "🌐 Web3 Art Marketplace"
   ],
-  
+
   lifePhilosophy: "Create art that speaks, build code that inspires",
   coffeeConsumed: Infinity + "☕"
 };
@@ -96,7 +93,7 @@ Building beautiful, responsive websites with modern tech stack. User experience 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 
 ### 🎓 **Teaching**
-Sharing knowledge through workshops and mentoring. Empowering the next generation of digital artists.
+Sharing knowledge through workshops and mentoring. Empowering the next generation of artists.
 
 </td>
 </tr>
@@ -136,7 +133,6 @@ Sharing knowledge through workshops and mentoring. Empowering the next generatio
 
 ## 📊 **GitHub Analytics**
 
-
 <br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=galeri-coder&theme=algolia" width="100%"/>
@@ -149,8 +145,6 @@ Sharing knowledge through workshops and mentoring. Empowering the next generatio
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=galeri-coder&custom_title=Contribution%20Timeline&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area_color=10B981&title_color=10B981&area=true&hide_border=true&border_radius=10)
 
-</div>
-
 ---
 
 ## 💼 **What I'm Working On**
@@ -159,8 +153,8 @@ Sharing knowledge through workshops and mentoring. Empowering the next generatio
 
 ```mermaid
 pie title "Time Allocation"
-    "Digital Art Creation 🎨" : 35
-    "Web Development 💻" : 30
+    "Digital Art Creation 🎨" : 10
+    "Web Development 💻" : 55
     "Client Projects 💼" : 20
     "Learning New Tech 📚" : 10
     "Community & Teaching 🎓" : 5
@@ -169,7 +163,7 @@ pie title "Time Allocation"
 </div>
 
 **Currently Focused On:**
-- 🎨 Launching NFT art collection on Ethereum
+- 🎨 Building NFT art collection on Eth.
 - 💻 Building interactive gallery platform with React
 - 🎓 Creating comprehensive digital art course
 - 🌐 Expanding global art community
@@ -191,9 +185,77 @@ pie title "Time Allocation"
 
 </div>
 
+---
 
+## 🧭 **Protocol & Roadmap (Public)**
 
+I'm building a new **protocol**: the constitution, governance, timeline, UI tools, and registry all live in a single repository.
 
+- 🧩 **Root (Start Here):** https://github.com/galeri-coder/ilhanart-roadmap#readme
+- 📜 **Protocols (Constitution):** https://github.com/galeri-coder/ilhanart-roadmap/tree/main/protocols
+- 🗺️ **Roadmap (Stages & Timeline):** https://github.com/galeri-coder/ilhanart-roadmap/tree/main/roadmap
+- 🗃️ **Registry (Proof & Notarization):** https://github.com/galeri-coder/ilhanart-roadmap/tree/main/registry
+- 🧱 **UI Infrastructure:** https://github.com/galeri-coder/ilhanart-roadmap/tree/main/ui-infrastructure
+
+<details>
+  <summary><b>Repo Tree (click)</b></summary>
+
+  ```text
+  ilhanart-roadmap/
+  │
+  ├─ README.md                          [ROOT IDENTITY]
+  │
+  ├─ protocols/                         [CONSTITUTION: rules & governance]
+  │  ├─ README.md                       (index / navigation)
+  │  ├─ fpp-core/                       [CORE RULES: hardest to change]
+  │  │  ├─ README.md
+  │  │  ├─ founding-patrons-protocol-EN.md
+  │  │  ├─ founding-patrons-protocol-TR.md
+  │  │  ├─ governance.md
+  │  │  └─ authority-appeals.md
+  │  ├─ fpp-extensions/                 [EXTENSIONS: benefits / utilities]
+  │  │  ├─ README.md
+  │  │  ├─ community-privileges.md
+  │  │  ├─ holder-tiers.md
+  │  │  ├─ nft-benefits.md
+  │  │  └─ token-utility.md
+  │  └─ ecosystem/                      [EXPANSION: events / venues / infra]
+  │     ├─ README.md
+  │     ├─ Events.md
+  │     ├─ venue-partnerships.md
+  │     ├─ physical-infrastructure.md
+  │     └─ meme-coin-killer.md
+  │
+  ├─ registry/                          [ARCHIVE: proof & notarization]
+  │  ├─ README.md
+  │  ├─ digitalnotary.md                (how the notary works + JSON schema)
+  │  ├─ ILHAN-2025-REG-001.json         (genesis entry)
+  │  ├─ snapshots/
+  │  ├─ merkle-roots/
+  │  └─ contribution-proofs/
+  │
+  ├─ ui-infrastructure/                 [INTERFACE: browser-facing tools]
+  │  ├─ README.md
+  │  ├─ founding-patron-calculator-EN.html
+  │  ├─ founding-patron-calculator-TR.html
+  │  ├─ founding-patrons-premium.css
+  │  ├─ dom-optimization.js
+  │  ├─ nuclear-shield.css
+  │  └─ exhibition-components/
+  │
+  ├─ roadmap/                           [TIME: stages & timeline]
+  │  ├─ README.md
+  │  ├─ Green-Blue-Stages.md
+  │  ├─ Purple-Stages-1.md
+  │  └─ Purple-Stages-2.md
+  │
+  └─ initiatives/                       [PROJECTS: living missions]
+     └─ translation/
+        └─ README.md
+  ```
+</details>
+
+---
 
 ## 🤝 **Let's Connect & Collaborate**
 
@@ -215,159 +277,6 @@ I'm always open to:
 [![Email](https://img.shields.io/badge/Email-10b981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galeri@ilhanart.org)
 
 </div>
-
----
-
-<div align="center">
-
----
-
-## 🚨 ** 100x LONG Demo - Educational Purpose Only** 🚨
-
-> **⚠️ DISCLAIMER: This is a PARODY for educational purposes!**
-> 
-> This section intentionally mimics common scam tactics to demonstrate psychological manipulation.  
-> **NO real investment, token sale, or financial offer.**  
-> The button leads to a harmless demonstration (barrel roll animation).
-> 
-> **Purpose:** Learn to recognize red flags before encountering real scams.
-
----
-
-<img src="https://media.giphy.com/media/67ThRZlYBvibtdF9JH/giphy.gif" width="100%"/>
-
-<h1>
-<a href="https://galeri-coder.github.io/barrel-roll" style="text-decoration: none;">
-🚀 100x LONG FOMO MANIPULATION (CLICK TO LEARN) 🚀
-</a>
-</h1>
-
-<img src="https://media.giphy.com/media/YnkMcHgNIMW4Yfmjxr/giphy.gif" width="500"/>
-
-### **📰 FAKE NEWS EXAMPLES (For Educational Purposes)** 📰
-
-```
-🔴 BLOOMBERG: "The Greatest Opportunity in History!" 💰
-🔴 REUTERS: "Turned $100 into $1 Million!" 🚀
-🔴 CNBC: "Wall Street Goes Crazy!" 📈
-🔴 FINANCIAL TIMES: "New Bitcoin Discovered!" ⚡
-🔴 FORBES: "Billionaires Are Investing in This!" 💎
-🔴 WSJ: "FED Approved, SEC Authorized!" ✅
-🔴 COINDESK: "Listed on 99 Exchanges Simultaneously!" 🏆
-🔴 YAHOO FINANCE: "Elon Musk Just Tweeted!" 🐦
-🔴 MARKETWATCH: "Fastest Rise in History!" 📊
-🔴 BARRON'S: "Warren Buffett Made Investment!" 💰
-🔴 ECONOMIST: "The Future of Economy!" 🌍
-🔴 NIKKEI: "Asian Markets Stopped, Everyone Watching!" 🇯🇵
-```
-
-<br>
-
-### **🎯 TYPICAL SCAM BUTTONS (Educational Examples)** 🎯
-
-<a href="https://galeri-coder.github.io/barrel-roll">
-<img src="https://img.shields.io/badge/💎_OPEN_LONG-100x_LEVERAGE-FFD700?style=for-the-badge&labelColor=00FF00&logoColor=white" height="60"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://galeri-coder.github.io/barrel-roll">
-<img src="https://img.shields.io/badge/🚀_BUY_NOW-DON'T_MISS_OUT-FF1493?style=for-the-badge&labelColor=00FFFF&logoColor=white" height="60"/>
-</a>
-
-<br>
-
-<a href="https://galeri-coder.github.io/barrel-roll">
-<img src="https://img.shields.io/badge/⚡_START_TRADING-GUARANTEED_PROFIT-FF4500?style=for-the-badge&labelColor=32CD32&logoColor=white" height="60"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://galeri-coder.github.io/barrel-roll">
-<img src="https://img.shields.io/badge/💰_INVEST_NOW-RISK_FREE-00FF00?style=for-the-badge&labelColor=8B00FF&logoColor=white" height="60"/>
-</a>
-
-<br>
-
-<a href="https://galeri-coder.github.io/barrel-roll">
-<img src="https://img.shields.io/badge/🔥_ONLY_3_SPOTS_LEFT-HURRY_UP-FF6347?style=for-the-badge&labelColor=1E90FF&logoColor=white" height="60"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://galeri-coder.github.io/barrel-roll">
-<img src="https://img.shields.io/badge/💎_GET_YOUR_LAMBO-BUY_NOW-FFD700?style=for-the-badge&labelColor=FF0000&logoColor=white" height="60"/>
-</a>
-
----
-
-</div>
-
----
-
-## 🚨 **IMPORTANT LESSON** 🚨
-
-<div align="center">
-
-### **The more GIFs, ads, and promises you see, the farther you should run.** 🏃‍♂️💨
-
-If something looks too good to be true, it probably is.  
-Legitimate opportunities don't need flashy animations and "GUARANTEED RETURNS!" claims.
-
-</div>
-
-### **🔴 Red Flags to Watch Out For:**
-
-**1. Self-Promotion & Hype** 🎪
-- If a project constantly brags about itself, it's very likely a scam
-- Real projects let their technology and adoption speak for themselves
-- Excessive marketing = desperate for your money
-
-**2. "Trusted" Team Background Means Nothing** 👥
-- Even projects claiming connections to major exchanges (like B*nance) have scammed people
-- Team reputation doesn't guarantee honesty
-- Past success ≠ future integrity
-
-**3. Large Communities Can Be Deceived** 🐑
-- Millions of followers doesn't mean safety
-- Remember: Ponzi schemes work until they don't
-- Everyone can be wrong together
-
-**4. "Slow Rugging" Tactics** 🐌💀
-- Projects like LUNA gradually increased supply
-- Small, incremental damage doesn't trigger immediate panic
-- By the time you notice, it's too late
-- Boiling frog syndrome: slow destruction is harder to detect
-
-**5. Too Many Exchange Listings** 🏦
-- Listing on 99 exchanges in one day? **RED FLAG**
-- Real projects launch carefully and strategically
-- Mass listings = pump and dump scheme
-
-**6. Celebrity Endorsements Are Bought** 🌟
-- Elon tweeted? Probably fake or paid
-- Celebrities get paid to promote scams
-- Do your own research (DYOR)
-
-**7. Urgency & FOMO Tactics** ⏰
-- "Only 3 spots left!" = psychological manipulation
-- "Offer expires in 59 seconds!" = artificial pressure
-- Real investments don't have countdown timers
-
----
-
-### **✅ Real Wealth is Built Through:**
-
-- 🎨 **Creating Value** - Build products, services, or art that people need
-- 📚 **Continuous Learning** - Invest in your skills and knowledge
-- 🤝 **Building Relationships** - Network with genuine people and communities
-- ⏳ **Patience & Consistency** - Compound growth takes time, not hours
-- 💡 **Critical Thinking** - Question everything, especially "guaranteed" returns
-
----
-
-### **💡 Remember:**
-
-> **If you clicked the button above, you just experienced FOMO (Fear Of Missing Out).**  
-> Learn to recognize these manipulation tactics, and you'll save yourself from financial disasters.
-
-**Stay curious. Stay skeptical. Stay safe.** 🛡️
-
----
 
 ---
 
