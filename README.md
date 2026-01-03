@@ -170,6 +170,72 @@ const ilhanArt = {
 
 console.log("🎨 Creating magic...");
 ```
+## 🌐 ILHAN ART Protocol UI Infrastructure • v1.0
+
+🔗 **Live Interface:**  
+[https://galeri-coder.github.io/ilhanart-roadmap/ui-infrastructure/site/v1.0/index.html](https://galeri-coder.github.io/ilhanart-roadmap/ui-infrastructure/site/v1.0/index.html)
+
+---
+
+### 🧭 What this interface represents
+
+This page is **the public entry point of the ILHAN ART protocol** —  
+a unified, modular, and verifiable user interface designed to visualize the protocol’s structure and philosophy.
+
+---
+
+### 🧩 What you are seeing here
+
+1. **Protocol Gateway (index.html)**  
+   The root access layer connecting all modules:  
+   [PoArt] → [F.P.P] → [Digital Notary] → [Public Registry] → [Apply]
+
+2. **Proof of Art (PoArt)**  
+   Displays how authenticity is earned — proof before trust, not hype before truth.
+
+3. **Founding Patrons Protocol (F.P.P)**  
+   Defines governance and membership standards — the core constitution of ILHAN ART.
+
+4. **Digital Notary**  
+   Documents the notarization process and data schema; connects verifiable actions to registry entries.
+
+5. **Public Registry**  
+   The only source of truth. Every claim, verification, and proof lives here as JSON records.
+
+---
+
+### 🎨 Interface Features
+
+- **Unified dark glass theme (v1.css)**  
+  Built for clarity and consistency across all modules.  
+- **Dynamic navigation (v1.js)**  
+  Automatically loads the same nav & footer into every page.  
+- **Modular component structure**  
+  `components/nav.html` + `components/footer.html` control global layout.  
+- **Versioned architecture**  
+  `/site/v1.0/` marks the first stable version of the interface.
+
+---
+
+### 💡 Core Philosophy
+
+> “UI is not truth; the registry is.”  
+>  
+> The website is only a readable surface.  
+> The verifiable reality of ILHAN ART lives inside `/registry/`.
+
+---
+
+### 📜 Summary
+
+The ILHAN ART UI Infrastructure (v1.0)  
+is the **first public-facing layer of the protocol** —  
+a system that makes the protocol’s logic, authenticity proofs,  
+and governance documents **transparent, human-readable, and verifiable**.
+
+---
+
+🧩 *Maintained under `/ui-infrastructure/site/v1.0/` directory as the canonical front-end of the ILHAN ART protocol stack.*
 
 ---
 
