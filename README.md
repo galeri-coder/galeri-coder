@@ -110,7 +110,7 @@ I'm building a new **protocol**: the constitution, governance, timeline, UI tool
 │        │
 │        ├─ assets/
 │        │   ├─ css/
-│        │   │   └─ v1.css            → ✅ Final “F.P.P Glass” dark theme
+│        │   │   └─ v1.css            
 │        │   │
 │        │   └─ js/
 │        │       └─ v1.js             → Dynamic loader for nav/footer + active link
