@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 🎨 **Problem Solver • Full-Stack Developer • Creative Technologist**
+### 🎨 **Problem Solver • Full-Stack Researcher • Creative Technologist**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+My+Creative+Universe+%F0%9F%8C%8C;Transforming+Ideas+into+Digital+Art+%F0%9F%8E%A8;Building+the+Future+of+Art+%F0%9F%9A%80;Code+%2B+Creativity+%3D+Magic+%E2%9C%A8" alt="Typing SVG" />
 
