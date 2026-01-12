@@ -34,8 +34,8 @@
 I'm building a new **protocol**: the constitution, governance, timeline, UI tools, and registry all live in a single repository.
 
 - 🧩 **Root (Start Here):** https://github.com/galeri-coder/ilhanart-roadmap#readme
-- 📜 **Protocols (Constitution):** https://github.com/galeri-coder/ilhanart-roadmap/tree/main/protocols
-- 🗺️ **Roadmap (Stages & Timeline):** https://github.com/galeri-coder/ilhanart-roadmap/tree/main/roadmap
+- 📜 **Protocols (Constitution):** https://github.com/galeri-coder/ilhanart-protocol/blob/main/%5BPoArt%5D/readme.md
+- 🗺️ **Roadmap (Stages & Timeline):** https://github.com/galeri-coder/ilhanart-roadmap/blob/main/README.md
 - 🗃️ **Registry (Proof & Notarization):** https://github.com/galeri-coder/ilhanart-roadmap/tree/main/registry
 - 🧱 **UI Infrastructure:** https://github.com/galeri-coder/ilhanart-roadmap/tree/main/ui-infrastructure
 
@@ -43,91 +43,36 @@ I'm building a new **protocol**: the constitution, governance, timeline, UI tool
   <summary><b>Repo Tree (click)</b></summary>
 
   ```text
-  ilhanart-roadmap/
+ ilhanart-roadmap/
+├── docs/                          # Core documentation
+│   ├── lexicon/                   # Protocol terminology & definitions
+│   ├── specs/                     # Technical specifications
+│   │   └── terminology.*.md       # 44+ language translations
+│   └── whitepapers/               # Official protocol whitepapers
 │
-├─ README.md
-│   → Root identity + summary of the protocol structure
+├── ecosystem/                     # Ecosystem components
+│   ├── meme-coin-killer.md        # Anti-speculation manifesto
+│   ├── physical-infrastructure.md # Gallery & hardware specs
+│   └── venue-partnerships.md      # Partnership frameworks
 │
-├─ protocols/                         [CONSTITUTION: Rules & Governance]
-│  ├─ README.md                       → Navigation for protocol documents
-│  │
-│  ├─ fpp-core/                       [CORE RULES: Hardest to change layer]
-│  │  ├─ README.md
-│  │  ├─ founding-patrons-protocol-EN.md
-│  │  ├─ founding-patrons-protocol-TR.md
-│  │  ├─ governance.md
-│  │  └─ authority-appeals.md
-│  │
-│  ├─ fpp-extensions/                 [EXTENSIONS: Benefits / Utilities]
-│  │  ├─ README.md
-│  │  ├─ community-privileges.md
-│  │  ├─ holder-tiers.md
-│  │  ├─ nft-benefits.md
-│  │  └─ token-utility.md
-│  │
-│  └─ ecosystem/                      [EXPANSION: Events / Venues / Infra]
-│     ├─ README.md
-│     ├─ Events.md
-│     ├─ venue-partnerships.md
-│     ├─ physical-infrastructure.md
-│     └─ meme-coin-killer.md
+├── initiatives/                   # Special initiatives
+│   └── translation/               # 44-language translation project
+│       └── README.md              # Translation guidelines
 │
+├── knowledge-base/                # Research & analysis
+│   ├── research-synthesis-EN.md   # Comprehensive research (English)
+│   └── research-synthesis-TR.md   # Comprehensive research (Turkish)
 │
-├─ registry/                          [ARCHIVE: Proof & Notarization]
-│  ├─ README.md
-│  ├─ digitalnotary.md                → How the notary works + JSON schema
-│  ├─ ILHAN-2025-REG-001.json         → Genesis verified entry
-│  ├─ snapshots/                      → Historical JSON snapshots
-│  ├─ merkle-roots/                   → Merkle proofs of registry states
-│  └─ contribution-proofs/            → Evidence of individual entries
+├── registry/                      # Standards & registries
+│   ├── digitalnotary.md           # Digital notary specifications
+│   ├── ILHAN-2025-REG-001.json    # Registry metadata
+│   └── README.md                  # Registry documentation
 │
-│
-├─ ui-infrastructure/                 [INTERFACE: Browser-facing tools]
-│  ├─ README.md
-│  │
-│  ├─ founding-patron-calculator-EN.html
-│  ├─ founding-patron-calculator-TR.html
-│  ├─ founding-patrons-premium.css
-│  ├─ dom-optimization.js
-│  ├─ nuclear-shield.css
-│  │
-│  ├─ exhibition-components/          → Shared UI building blocks
-│  │
-│  └─ site/
-│     └─ v1.0/                        [Main public interface v1.0]
-│        │
-│        ├─ index.html                → Landing / Overview
-│        ├─ poart.html                → Proof of Art (PoArt)
-│        ├─ fpp.html                  → Founding Patrons Protocol
-│        ├─ notary.html               → Digital Notary UI
-│        ├─ public-registry.html      → Public Registry Viewer
-│        ├─ consult.html              → Apply / Submit form
-│        ├─ doc.html, docs.html       → Viewer for markdown docs
-│        │
-│        ├─ components/
-│        │   ├─ nav.html              → Injected top navigation bar
-│        │   └─ footer.html           → Injected footer
-│        │
-│        ├─ assets/
-│        │   ├─ css/
-│        │   │   └─ v1.css            
-│        │   │
-│        │   └─ js/
-│        │       └─ v1.js             → Dynamic loader for nav/footer + active link
-│        │
-│        └─ registry/                 → (optional local data mirror)
-│
-│
-├─ roadmap/                           [TIME: Stages & Timeline]
-│  ├─ README.md
-│  ├─ Green-Blue-Stages.md
-│  ├─ Purple-Stages-1.md
-│  └─ Purple-Stages-2.md
-│
-│
-└─ initiatives/                       [PROJECTS: Living Missions]
-   └─ translation/
-      └─ README.md                    → Translation mission docs
+└── timeline/                      # Roadmap phases
+    ├── Green-Blue-Stages.md       # Foundation phases (2025-2030)
+    ├── Purple-Stages-1.md         # Golden Age part 1 (2030-2060)
+    ├── Purple-Stages-2.md         # Golden Age part 2 (2060-2100)
+    └── README.md                  # Timeline overview
 
   ```
 </details>
