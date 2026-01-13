@@ -258,21 +258,9 @@ Building a **975-year roadmap** (2025-3000) for cultural preservation:
 
 <div align="center">
 
-### 🏆 GitHub Trophy Collection
+### 🏆 Achievement Showcase
 
-![trophy](https://github-profile-trophy.vercel.app/?username=galeri-coder&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 📈 Performance Metrics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galeri-coder&show_icons=true&theme=algolia&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=galeri-coder&theme=algolia&hide_border=true)
+![](https://github-profile-trophy.vercel.app/?username=galeri-coder&theme=algolia&no-bg=true&no-frame=true&row=1&column=7)
 
 </div>
 
@@ -280,9 +268,20 @@ Building a **975-year roadmap** (2025-3000) for cultural preservation:
 
 <div align="center">
 
-### 💻 Code Distribution
+### 📈 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galeri-coder&layout=compact&theme=algolia&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=galeri-coder&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galeri-coder&layout=compact&langs_count=8&theme=algolia"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=galeri-coder&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 
 </div>
 
@@ -290,7 +289,7 @@ Building a **975-year roadmap** (2025-3000) for cultural preservation:
 
 ### 📅 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=galeri-coder&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=galeri-coder&theme=github-compact&area=true&hide_border=true"/>
 
 ---
 
