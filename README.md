@@ -17,421 +17,286 @@
 [![Email](https://img.shields.io/badge/📧_Email-Say_Hello-10b981?style=for-the-badge)](mailto:galeri@ilhanart.org)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=galeri-coder&label=Profile%20Views&color=10b981&style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/galeri-coder/galeri-coder?style=for-the-badge&color=10b981)
 
 </div>
 
 ---
-<div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=代码如诗，艺术如画。%0A(Code%20is%20poetry,%20art%20is%20painting)&author=Ancient%20Chinese%20Proverb&border=true&borderColor=10b981" width="600"/>
+## 🧭 About İlhanArt
 
-</div>
+İlhanArt Gallery combines traditional art curation with blockchain technology to create **millennium-scale cultural preservation systems**. Our mission: authenticate, document, and preserve artistic works for future generations through cryptographic verification and decentralized protocols.
+
+**Core Philosophy:** *Culture > Capital*  
+We reject speculation-driven models in favor of honest documentation, long-term preservation, and cultural integrity.
 
 ---
-## 🧭 **Protocol & Roadmap (Public)**
 
-I'm building a new **protocol**: the constitution, governance, timeline, UI tools, and registry all live in a single repository.
+## 🔗 Quick Links
 
-- 🧩 **Root (Start Here):** https://github.com/galeri-coder/ilhanart-roadmap#readme
-- 📜 **Protocols (Constitution):** https://github.com/galeri-coder/ilhanart-protocol/blob/main/%5BPoArt%5D/readme.md
-- 🗺️ **Roadmap (Stages & Timeline):** https://github.com/galeri-coder/ilhanart-roadmap/blob/main/README.md
-- 🗃️ **Registry (Proof & Notarization):** https://github.com/galeri-coder/ilhanart-roadmap/tree/main/registry
-- 🧱 **UI Infrastructure:** https://github.com/galeri-coder/ilhanart-roadmap/tree/main/ui-infrastructure
+### 📚 **Essential Resources**
 
-<details>
-  <summary><b>Repo Tree (click)</b></summary>
+- 🧩 **Start Here:** [Project Root & Overview](https://github.com/galeri-coder/ilhanart-roadmap#readme)
+- 📜 **Protocols:** [PoArt Constitution](https://github.com/galeri-coder/ilhanart-protocol/blob/main/%5BPoArt%5D/readme.md)
+- 🗺️ **Roadmap:** [975-Year Timeline (2025-3000)](https://github.com/galeri-coder/ilhanart-roadmap/blob/main/README.md)
+- 🗃️ **Registry:** [Public Verification Registry](https://github.com/galeri-coder/ilhanart-roadmap/tree/main/registry)
+- 🧱 **UI Infrastructure:** [Protocol Gateway](https://github.com/galeri-coder/ilhanart-roadmap/tree/main/ui-infrastructure)
 
-  ```text
- ilhanart-roadmap/
-├── docs/                          # Core documentation
-│   ├── lexicon/                   # Protocol terminology & definitions
-│   ├── specs/                     # Technical specifications
-│   │   └── terminology.*.md       # 44+ language translations
-│   └── whitepapers/               # Official protocol whitepapers
-│
-├── ecosystem/                     # Ecosystem components
-│   ├── meme-coin-killer.md        # Anti-speculation manifesto
-│   ├── physical-infrastructure.md # Gallery & hardware specs
-│   └── venue-partnerships.md      # Partnership frameworks
-│
-├── initiatives/                   # Special initiatives
-│   └── translation/               # 44-language translation project
-│       └── README.md              # Translation guidelines
-│
-├── knowledge-base/                # Research & analysis
-│   ├── research-synthesis-EN.md   # Comprehensive research (English)
-│   └── research-synthesis-TR.md   # Comprehensive research (Turkish)
-│
-├── registry/                      # Standards & registries
-│   ├── digitalnotary.md           # Digital notary specifications
-│   ├── ILHAN-2025-REG-001.json    # Registry metadata
-│   └── README.md                  # Registry documentation
-│
-└── timeline/                      # Roadmap phases
-    ├── Green-Blue-Stages.md       # Foundation phases (2025-2030)
-    ├── Purple-Stages-1.md         # Golden Age part 1 (2030-2060)
-    ├── Purple-Stages-2.md         # Golden Age part 2 (2060-2100)
-    └── README.md                  # Timeline overview
+### 🎨 **Authentication System**
 
-  ```
-</details>
+- 🖼️ **Sealed Originals:** [32 Authenticated Artworks](https://github.com/galeri-coder/poart-authentication/tree/main/artists/alinakiilhan/01_originals)
+- 🔐 **Watermarked Collection:** [QR-Verified Artworks](https://github.com/galeri-coder/poart-authentication/tree/main/artists/alinakiilhan/03_watermarked)
+- 📋 **Master Record:** [Authentication CSV](https://github.com/galeri-coder/poart-authentication/blob/main/artists/alinakiilhan/MASTER_AUTHENTICATION_RECORD.csv)
+- ✅ **Digital Notary:** [Verification Terminal](https://github.com/galeri-coder/ilhanart-roadmap/tree/main/registry)
 
+### 🌍 **Documentation**
 
+- 📖 **44-Language Terminology:** [Multilingual Glossary](https://github.com/galeri-coder/ilhanart-roadmap/tree/main/docs/specs)
+- 📄 **Research Synthesis:** [EN](https://github.com/galeri-coder/ilhanart-roadmap/blob/main/knowledge-base/research-synthesis-EN.md) | [TR](https://github.com/galeri-coder/ilhanart-roadmap/blob/main/knowledge-base/research-synthesis-TR.md)
+- 💎 **Meme Coin Killer:** [Anti-Speculation Manifesto](https://github.com/galeri-coder/ilhanart-roadmap/blob/main/ecosystem/meme-coin-killer.md)
 
-```javascript
-const ilhanArt = {
-  location: "Istanbul, Turkey 🇹🇷",
-  role: "Founder & Lead Artist @ İlhan Art Studio",
-  focus: ["Digital Art", "Web Development", "Creative Coding", "NFT"],
-  passion: "Merging traditional art with cutting-edge technology",
+---
 
-  code() {
-    while (caffeine > 0) {
-      create();
-      innovate();
-      iterate();
-    }
-  },
+## 🗺️ Repository Map
 
-  paint() {
-    let canvas = new Canvas();
-    canvas.applyColors(["#10b981", "#3b82f6", "#8b5cf6"]);
-    canvas.addMagic(Infinity);
-    return masterpiece;
-  },
+### 🎨 **Authentication & Verification**
 
-  currentProjects: [
-    "🎨 Interactive Art Gallery Platform",
-    "🖼️ NFT Collection Building",
-    "🎓 Digital Art Workshops",
-    "💻 Custom Web Solutions",
-    "🌐 Web3 Art Marketplace"
-  ],
+#### [`poart-authentication`](https://github.com/galeri-coder/poart-authentication) ⭐ **ACTIVE**
+Blockchain-based art authentication system for İlhanArt Gallery collections.
+- **Status:** Production
+- **Content:** 32 authenticated artworks by Ali Naki İlhan
+- **Technology:** SHA-512 cryptographic hashing, QR watermarking
+- **Features:** Original files, watermarked versions, metadata, verification system
+- **Purpose:** Millennium-scale archival and provenance tracking
 
-  lifePhilosophy: "Create art that speaks, build code that inspires",
-  coffeeConsumed: Infinity + "☕"
-};
+---
 
-console.log("🎨 Creating magic...");
+### 📋 **Protocols & Standards**
+
+> ⚠️ **Note:** The [F.P.P.] (Foundational Pillar Protocol) is currently in **DEMO/DRAFT stage**. The protocol is under active development and should be considered experimental. Production deployment is planned for 2027-2030.
+
+#### [`ilhanart-core`](https://github.com/galeri-coder/ilhanart-core) 🔧 **CORE INFRASTRUCTURE**
+Core protocols and governance standards for the İlhanArt ecosystem.
+
+**Structure:**
 ```
-## 🌐 ILHAN ART Protocol UI Infrastructure • v1.0
+ilhanart-core/
+├── protocols/
+│   ├── [F.P.P.]/          # Foundational Pillar Protocol (DEMO) - governance
+│   │   └── v1/            # Version 1 draft implementation
+│   ├── [PoArt]/           # Proof of Art protocol
+│   │   └── v1/            # Authentication standards
+│   └── index.html         # Protocol gateway
+├── registry/
+│   └── registry.json      # Public verification registry
+├── sealed/                # Notarized documents
+│   ├── POART-*.json       # Sealed authentication records
+│   └── manifests_schema_v1.0_SEALED.sql
+└── scripts/
+    └── validate-links.mjs # Link integrity checker
+```
 
-🔗 **Live Interface:**  
-[https://galeri-coder.github.io/ilhanart-roadmap/ui-infrastructure/site/v1.0/index.html](https://galeri-coder.github.io/ilhanart-roadmap/ui-infrastructure/site/v1.0/index.html)
-
----
-
-### 🧭 What this interface represents
-
-This page is **the public entry point of the ILHAN ART protocol** —  
-a unified, modular, and verifiable user interface designed to visualize the protocol’s structure and philosophy.
-
----
-
-### 🧩 What you are seeing here
-
-1. **Protocol Gateway (index.html)**  
-   The root access layer connecting all modules:  
-   [PoArt] → [F.P.P] → [Digital Notary] → [Public Registry] → [Apply]
-
-2. **Proof of Art (PoArt)**  
-   Displays how authenticity is earned — proof before trust, not hype before truth.
-
-3. **Founding Patrons Protocol (F.P.P)**  
-   Defines governance and membership standards — the core constitution of ILHAN ART.
-
-4. **Digital Notary**  
-   Documents the notarization process and data schema; connects verifiable actions to registry entries.
-
-5. **Public Registry**  
-   The only source of truth. Every claim, verification, and proof lives here as JSON records.
+**Key Components:**
+- **[F.P.P.] (DEMO)** - Foundational governance and pillar management *(Draft Stage)*
+- **[PoArt]** - Art authentication and verification protocol
+- **Registry** - Public source of truth for all verifications
+- **Sealed Records** - Cryptographically notarized documents
 
 ---
 
-### 🎨 Interface Features
+#### [`ilhanart-roadmap`](https://github.com/galeri-coder/ilhanart-roadmap) 📚 **DOCUMENTATION HUB**
+Comprehensive documentation, research, and multilingual resources.
 
-- **Unified dark glass theme (v1.css)**  
-  Built for clarity and consistency across all modules.  
-- **Dynamic navigation (v1.js)**  
-  Automatically loads the same nav & footer into every page.  
-- **Modular component structure**  
-  `components/nav.html` + `components/footer.html` control global layout.  
-- **Versioned architecture**  
-  `/site/v1.0/` marks the first stable version of the interface.
+**Structure:**
+```
+ilhanart-roadmap/
+├── docs/
+│   ├── specs/             # 44-language terminology translations
+│   │   ├── terminology.en.md
+│   │   ├── terminology.tr.md
+│   │   └── ... (42 more languages)
+│   ├── whitepapers/       # Protocol whitepapers
+│   └── lexicon/           # Technical glossary
+├── knowledge-base/
+│   ├── research-synthesis-EN.md
+│   └── research-synthesis-TR.md
+├── ecosystem/
+│   ├── meme-coin-killer.md           # Anti-speculation manifesto
+│   ├── physical-infrastructure.md
+│   └── venue-partnerships.md
+└── initiatives/
+    └── translation/       # 44-language translation project
+```
 
----
-
-### 💡 Core Philosophy
-
-> “UI is not truth; the registry is.”  
->  
-> The website is only a readable surface.  
-> The verifiable reality of ILHAN ART lives inside `/registry/`.
-
----
-
-### 📜 Summary
-
-The ILHAN ART UI Infrastructure (v1.0)  
-is the **first public-facing layer of the protocol** —  
-a system that makes the protocol’s logic, authenticity proofs,  
-and governance documents **transparent, human-readable, and verifiable**.
-
----
-
-🧩 *Maintained under `/ui-infrastructure/site/v1.0/` directory as the canonical front-end of the ILHAN ART protocol stack.*
+**Highlights:**
+- **44 Language Support** - Global accessibility for protocol terminology
+- **Research Synthesis** - Comprehensive analysis in English and Turkish
+- **Meme Coin Killer** - Manifesto against speculative crypto models
+- **Translation Initiative** - Community-driven multilingual documentation
 
 ---
 
-# 🏛️ İlhanArt [PoArt] & [F.P.P.] Unified Protocol Manifesto
+#### [`ilhanart-protocol`](https://github.com/galeri-coder/ilhanart-protocol) 🏗️ **DEVELOPMENT WORKSPACE**
+Development blueprints, experimental features, and system architecture.
 
-This document formalizes the fundamental axioms of the İlhanArt ecosystem. It defines the transition from high-entropy speculative "Memecoin" chaos to a low-entropy "Civilizational" structure.
+**Structure:**
+```
+ilhanart-protocol/
+├── Blueprints/
+│   ├── ilhanart-roadmap/
+│   ├── kurulum_*.js       # Setup scripts
+│   ├── organize_*.js      # Organization utilities
+│   └── package.json
+├── [F.P.P.]/              # (DEMO) - Draft implementation
+│   ├── data/
+│   │   └── last_proof_run.json
+│   └── packages/
+│       └── indexer/       # TypeScript indexer
+└── [PoArt]/
+    ├── modules/           # Artist module templates
+    │   ├── davinci.html
+    │   ├── picasso.html
+    │   ├── pollock.html
+    │   └── ... (7 artist modules)
+    └── index.html
+```
 
----
-
-## I. Mathematical & Physical Foundations
-
-The protocol is built on five core theoretical pillars to ensure systemic integrity:
-
-### 1. The Logic of Integrity (Set Theory)
-$$\text{Anti-Scam} \subset \text{Anti-Memecoin}$$
-*Scams are defined as a subset of low-effort systems ($E_{\text{effort}} \to 0$). By rejecting the "low-effort" model, the protocol inherently excludes the scam subset.*
-
-### 2. Ecosystem Thermodynamics (Entropy Reduction)
-$$\Delta S_{\text{ecosystem}} = S_{\text{culture}} - W_{\text{human}}$$
-*High-friction human work ($W_{\text{human}}$), such as complex book translations, acts as a cooling mechanism to reduce ecosystem entropy ($S$).*
-
-### 3. Unified Patron Potential (Gravitational Field)
-$$\Phi_{\text{Patron}} = \log_{10}(1 + \text{TWAB}) \times 10,000 \times \left( 1 + \frac{\sum P_{\text{cultural}}}{1000} \right)$$
-*The logarithmic function ensures that capital (TWAB) has diminishing returns, preventing "whales" from holding absolute power.*
-
-### 4. Maxwell’s Demon Filter (Information Theory)
-$$H(\text{Claim}) = \begin{cases} 1, & \text{if } Q_{\text{score}} \geq 80\% \\ 0, & \text{if } Q_{\text{score}} < 80\% \end{cases}$$
-*The Quiz-Gated Claim mechanism sorts high-quality signals from the noise of AI-generated or low-effort spam.*
-
-### 5. Phase Transition (Theory → Practice, Live)
-$$\mathcal{H}_{\text{Theory}} \xrightarrow[\text{VRF}]{\text{Solana/Rust}} \frac{dL}{dt}$$
-*Static documentation ($\mathcal{H}$) represents potential energy; transition to "Live" execution via Solana results in time-dependent state changes.*
-
----
-
-## II. The 15 Pillars of the Protocol: Problems and Solutions
-
-The mathematical models above provide direct solutions to 15 chronic blockchain diseases:
-
-1.  **Plutocracy Neutralization:** Logarithmic scoring prevents wealth from becoming absolute power.
-2.  **Effort Staking:** Introduces "Proof of Contribution" as the primary status engine.
-3.  **Intellectual Integrity (IPoW):** Quiz-gating blocks AI-spam and plagiarism.
-4.  **Patience over Speed:** 365-day cycle ensures long-term civilizational alignment.
-5.  **Zombie Filtering:** Annual Claim requirement ensures only active builders hold status.
-6.  **Boutique Curation:** [PoArt] standard ensures only quality assets enter the exchange.
-7.  **40% Integrity Veto:** Community power to freeze low-quality or fraudulent proposals.
-8.  **The Legacy Key:** Soulbound status transfer for intergenerational continuity.
-9.  **Anti-Exit Liquidity:** Millennium Vault locks tokens for 10 years to prove belief.
-10. **Cybersecurity Bonus:** +100 points for hardware wallet migration.
-11. **Flexible Justice:** Self-Migration allows secure wallet upgrades without status loss.
-12. **Physical-Digital Bridge:** Seal of Kethüda turns digital data into family heirlooms.
-13. **Dynamic Hierarchy:** Point Decay prevents permanent status oligarchy.
-14. **Anti-Collusion Audit:** Meta-Reviews stop review rings from gaming the system.
-15. **Psychological Resilience:** Grace Period protects Patrons from market-induced anxiety.
+**Purpose:**
+- Experimental features and prototypes
+- System architecture blueprints
+- Development utilities and scripts
+- Artist module templates for [PoArt] protocol
 
 ---
 
-## III. Core Logic Engine (Implementation)
+### 🔗 **Public Interfaces**
 
-```javascript
-/**
- * İlhanArt Unified Logic v1.2 (STABLE)
- * This code implements the [F.P.P.] Mathematical Foundation.
- */
+#### [`galeri-coder.github.io`](https://galeri-coder.github.io) 🌐 **WEB PORTAL**
+Public-facing interface for protocol documentation and asset registry.
 
-const IlhanArtLogic = {
-    /**
-     * Implementing Equation III: Ranking and Plutocracy Neutralization
-     * log10(1 + balance) * 10,000 * (1 + points / 1000)
-     */
-    calculatePatronPotential: (balance, points) => {
-        const twab = Number(balance) || 0;
-        const culturalPoints = Number(points) || 0;
-
-        // Formula: log10(1 + TWAB) * 10,000
-        const tokenScore = Math.log10(1 + twab) * 10000;
-
-        // Formula: 1 + (Points / 1000)
-        const multiplier = 1 + (culturalPoints / 1000);
-
-        const result = tokenScore * multiplier;
-
-        return {
-            total: parseFloat(result.toFixed(2)),
-            formatted: result.toLocaleString('en-US', { maximumFractionDigits: 2 }),
-            status: culturalPoints >= 1000 ? "Legendary Patron" : "Standard Patron"
-        };
-    },
-
-    /**
-     * Implementing Equation IV: Maxwell's Demon Filter
-     */
-    verifyIPoW: (quizScore) => {
-        return quizScore >= 0.80; // 80% passing grade
-    }
-};
-
-// Simulation Test: 10,000 Tokens + 500 Cultural Points
-console.log("Verified System Score:", IlhanArtLogic.calculatePatronPotential(10000, 500).formatted);
-
-
+**Features:**
+- Protocol gateway (PoArt, F.P.P., Digital Notary)
+- Public registry interface
+- Digital notary verification
+- Modular dark-glass UI (v1.0)
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
+## 🛠️ Tech Stack
 
 <div align="center">
 
 ### **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=js,html,css,python,react,nodejs,express,tailwind" />
+<img src="https://skillicons.dev/icons?i=js,html,css,python,nodejs,react,tailwind" />
 
-### **Design & Creative Tools**
+---
 
-<img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,blender" />
+### **AI & Development Tools**
 
-### **Dev Tools & Platforms**
+![Claude AI](https://img.shields.io/badge/Claude_AI-Assistant-10b981?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-Editor-667EEA?style=for-the-badge&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,docker,firebase" />
+---
 
-</div>
+### **Creative & Design Tools**
 
-<div align="center">
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logoColor=white)
 
-```ascii
-╔══════════════════════════════════════════════════════════╗
-║  "Talk is cheap. Show me the code."  - Linus Torvalds   ║
-╚══════════════════════════════════════════════════════════╝
-```
+---
+
+### **Version Control & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+
+![Git GUI](https://img.shields.io/badge/Git_GUI-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 **GitHub Analytics**
+## 🎯 Current Focus
+
+### ⭐ **Primary Project: PoArt Authentication System**
+
+Building a **975-year roadmap** (2025-3000) for cultural preservation:
+
+- ✅ **Phase 1 (2025):** SHA-512 authentication for 32 artworks
+- ✅ **Phase 1 (2025):** QR watermarking and verification system
+- 🔄 **Phase 2 (2026):** Blockchain integration (Solana/Ethereum)
+- 🔄 **Phase 2 (2026):** Web verification portal development
+- 📋 **Phase 3 (2027):** Multi-artist expansion
+- 📋 **Phase 3 (2027):** Decentralized storage (IPFS/Arweave)
+
+### 🔬 **Research Areas**
+
+- Cryptographic art authentication
+- Decentralized cultural preservation
+- Anti-speculation governance models
+- Multilingual documentation systems
+
+---
+
+## 💎 Philosophy: Culture > Capital
+
+İlhanArt rejects the "meme coin" model of speculation-driven value extraction. Instead, we build:
+
+- **Honest Documentation** - Real work, real value, real verification
+- **Long-term Thinking** - 975-year roadmap, not 975-day pump cycles
+- **Cultural Integrity** - Art preservation over financial speculation
+- **Proof Before Trust** - Cryptographic verification, not marketing hype
+
+**Read the Manifesto:** [Meme Coin Killer](https://github.com/galeri-coder/ilhanart-roadmap/blob/main/ecosystem/meme-coin-killer.md)
+
+---
+
+## 📊 GitHub Analytics
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=galeri-coder&theme=algolia" width="100%"/>
+<div align="center">
+
+### 🏆 GitHub Trophy Collection
+
+![trophy](https://github-profile-trophy.vercel.app/?username=galeri-coder&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
 
 <br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=galeri-coder&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
+<div align="center">
+
+### 📈 Performance Metrics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=galeri-coder&show_icons=true&theme=algolia&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=galeri-coder&theme=algolia&hide_border=true)
+
+</div>
 
 <br>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=galeri-coder&custom_title=Contribution%20Timeline&bg_color=0D1117&color=10B981&line=10B981&point=FFFFFF&area_color=10B981&title_color=10B981&area=true&hide_border=true&border_radius=10)
-
----
-
-## 💼 **What I'm Working On**
-
 <div align="center">
 
-```mermaid
-pie title "Time Allocation"
-    "Digital Art Creation 🎨" : 10
-    "Web Development 💻" : 55
-    "Client Projects 💼" : 20
-    "Learning New Tech 📚" : 10
-    "Community & Teaching 🎓" : 5
-```
+### 💻 Code Distribution
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=galeri-coder&layout=compact&theme=algolia&hide_border=true)
 
 </div>
 
-**Currently Focused On:**
-- 🎨 Building NFT art collection on Eth.
-- 💻 Building interactive gallery platform with React
-- 🎓 Creating comprehensive digital art course
-- 🌐 Expanding global art community
-- 🤖 Experimenting with AI-generated art
+<br>
 
----
+### 📅 Contribution Activity
 
-## 📈 **This Week I Spent My Time On**
-
-<div align="center">
-
-```text
-🎨 Digital Art       ████████████████░░░░░░░░   65.0%
-💻 Coding            ████████████░░░░░░░░░░░░   50.0%
-📚 Learning          ████████░░░░░░░░░░░░░░░░   32.0%
-🎓 Teaching          █████░░░░░░░░░░░░░░░░░░░   21.0%
-☕ Coffee Breaks     ███████████████████████░   95.0%
-```
-
-</div>
-
----
-
-
----
-
-## 🤝 **Let's Connect & Collaborate**
-
-<div align="center">
-
-I'm always open to:
-- 🎨 **Art Collaborations** - Let's create something amazing together
-- 💻 **Dev Projects** - Building innovative web solutions
-- 🎓 **Mentoring** - Sharing knowledge and growing together
-- 💬 **Just Chatting** - About art, tech, or life in general
-
-### **Find Me On:**
-
-[![Website](https://img.shields.io/badge/🌐_Website-ilhanart.org-10b981?style=for-the-badge)](https://www.ilhanart.org)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ilhanartgaleri)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/İlhanARTLive)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Galerilhan)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alinaki.ilhan)
-[![Email](https://img.shields.io/badge/Email-10b981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galeri@ilhanart.org)
-
-</div>
-
----
-
-## 😄 **Fun Facts**
-
-<div align="center">
-
-> 🎨 Paint dries faster than my CI/CD pipeline  
-> 💻 "It works on my machine" - also applies to art  
-> ☕ My coffee consumption violates the laws of thermodynamics  
-> 🐛 More bugs in my code than colors on my palette  
-> 🌙 3 AM: When bugs reveal themselves and ideas strike  
-> 🎮 High score: 47 browser tabs open while coding
-
-</div>
-
----
-
-## 🎁 **Support My Work**
-
-<div align="center">
-
-If you appreciate what I create, consider supporting İlhan Art:
-
-[![Support İlhan Art](https://img.shields.io/badge/💚_Support_İlhan_Art-Visit_Our_Page-10b981?style=for-the-badge)](https://www.ilhanart.org/support)
-[![View Artworks](https://img.shields.io/badge/🎨_View_Artworks-Explore_Gallery-10b981?style=for-the-badge)](https://www.ilhanart.org/alinakiilhan)
-[![Star Repos](https://img.shields.io/badge/⭐_Star_My_Repos-GitHub-10b981?style=for-the-badge)](https://github.com/galeri-coder?tab=repositories)
-
-**Support us through your skills or contributions!**  
-Visit our [Support Page](https://www.ilhanart.org/support) to see how you can help, or explore our gallery to discover unique artworks.
-
-</div>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=galeri-coder&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true)
 
 ---
 
 <div align="center">
 
-## 🌟 **Inspirational Tech Quotes**
+## 🌟 Inspirational Tech Quotes
 
 ```ascii
 ╔═══════════════════════════════════════════════════════════════╗
@@ -464,7 +329,5 @@ Visit our [Support Page](https://www.ilhanart.org/support) to see how you can he
 **Made with ❤️, 🎨, and countless ☕ by İlhan Art**
 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=galeri-coder&label=Total%20Visitors&countColor=%2310b981&style=for-the-badge&labelStyle=upper)](https://visitorbadge.io/status?path=galeri-coder)
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/> <em><b>Happy coding and creating!</b> 🚀</em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="60"/>
 
 </div>
