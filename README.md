@@ -260,7 +260,7 @@ Building a **975-year roadmap** (2025-3000) for cultural preservation:
 
 ### 🏆 Achievement Showcase
 
-![](https://github-profile-trophy.vercel.app/?username=galeri-coder&theme=algolia&no-bg=true&no-frame=true&row=1&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=galeri-coder&theme=darkhub&no-bg=false&no-frame=false&row=1&column=7" alt="GitHub Trophy"/>
 
 </div>
 
@@ -270,8 +270,14 @@ Building a **975-year roadmap** (2025-3000) for cultural preservation:
 
 ### 📈 GitHub Statistics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=galeri-coder&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galeri-coder&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/galeri-coder">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=galeri-coder&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=galeri-coder&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</a>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=galeri-coder&theme=algolia" width="100%"/>
 
 </div>
 
@@ -281,7 +287,7 @@ Building a **975-year roadmap** (2025-3000) for cultural preservation:
 
 ### 🔥 Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=galeri-coder&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+<img src="https://nirzak-streak-stats.vercel.app?user=galeri-coder&theme=algolia&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -289,7 +295,14 @@ Building a **975-year roadmap** (2025-3000) for cultural preservation:
 
 ### 📅 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=galeri-coder&theme=github-compact&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=galeri-coder&theme=react-dark&bg_color=0d1117&color=10b981&line=10b981&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=galeri-coder&theme=algolia" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=galeri-coder&theme=algolia" width="48%"/>
+</div>
 
 ---
 
