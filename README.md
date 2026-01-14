@@ -254,22 +254,6 @@ Building a **975-year roadmap** (2025-3000) for cultural preservation:
 
 ## 📊 GitHub Analytics
 
-<br>
-
-<div align="center">
-
-### 🏆 Achievement Showcase
-
-<img src="https://github-profile-trophy.vercel.app/?username=galeri-coder&theme=darkhub&no-bg=false&no-frame=false&row=1&column=7" alt="GitHub Trophy"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 📈 GitHub Statistics
-
 <a href="https://github.com/galeri-coder">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=galeri-coder&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=galeri-coder&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
@@ -302,30 +286,6 @@ Building a **975-year roadmap** (2025-3000) for cultural preservation:
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=galeri-coder&theme=algolia" width="48%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=galeri-coder&theme=algolia" width="48%"/>
-</div>
-
----
-
-<div align="center">
-
-## 🌟 Inspirational Tech Quotes
-
-```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║  "First, solve the problem. Then, write the code."          ║
-║  — John Johnson                                              ║
-║                                                               ║
-║  "Code is like humor. When you have to explain it,          ║
-║   it's bad."                                                 ║
-║  — Cory House                                                ║
-║                                                               ║
-║  "Experience is the name everyone gives to their mistakes."  ║
-║  — Oscar Wilde                                               ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
 </div>
 
 ---
