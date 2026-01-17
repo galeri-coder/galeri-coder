@@ -39,7 +39,7 @@ We reject speculation-driven models in favor of honest documentation, long-term 
 - 📜 **Protocols:** [PoArt Constitution](https://github.com/galeri-coder/ilhanart-protocol/blob/main/%5BPoArt%5D/readme.md)
 - 🗺️ **Roadmap:** [975-Year Timeline (2025-3000)](https://github.com/galeri-coder/ilhanart-roadmap/blob/main/README.md)
 - 🗃️ **Registry:** [Public Verification Registry](https://github.com/galeri-coder/ilhanart-roadmap/tree/main/registry)
-- 🧱 **UI Infrastructure:** [Protocol Gateway](https://github.com/galeri-coder/ilhanart-roadmap/tree/main/ui-infrastructure)
+
 
 ### 🎨 **Authentication System**
 
