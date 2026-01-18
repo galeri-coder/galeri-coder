@@ -52,7 +52,7 @@ We reject speculation-driven models in favor of honest documentation, long-term 
 
 - 📖 **44-Language Terminology:** [Multilingual Glossary](https://github.com/galeri-coder/ilhanart-roadmap/tree/main/docs/specs)
 - 📄 **Research Synthesis:** [EN](https://github.com/galeri-coder/ilhanart-roadmap/blob/main/knowledge-base/research-synthesis-EN.md) | [TR](https://github.com/galeri-coder/ilhanart-roadmap/blob/main/knowledge-base/research-synthesis-TR.md)
-- 💎 **Meme Coin Killer:** [Anti-Speculation Manifesto](https://github.com/galeri-coder/ilhanart-roadmap/blob/main/ecosystem/meme-coin-killer.md)
+
 
 ---
 
@@ -248,7 +248,7 @@ Building a **975-year roadmap** (2025-3000) for cultural preservation:
 - **Cultural Integrity** - Art preservation over financial speculation
 - **Proof Before Trust** - Cryptographic verification, not marketing hype
 
-**Read the Manifesto:** [Meme Coin Killer](https://github.com/galeri-coder/ilhanart-roadmap/blob/main/ecosystem/meme-coin-killer.md)
+**Read the Manifesto:** [Check](https://github.com/galeri-coder/ilhanart-roadmap/blob/main/ecosystem/meme-coin-killer.md)
 
 ---
 
