@@ -44,7 +44,6 @@ We reject speculation-driven models in favor of honest documentation, long-term 
 ### 🎨 **Authentication System**
 
 - 🖼️ **Sealed Originals:** [32 Authenticated Artworks](https://github.com/galeri-coder/poart-authentication/tree/main/artists/alinakiilhan/01_originals)
-- 🔐 **Watermarked Collection:** [QR-Verified Artworks](https://github.com/galeri-coder/poart-authentication/tree/main/artists/alinakiilhan/03_watermarked)
 - 📋 **Master Record:** [Authentication CSV](https://github.com/galeri-coder/poart-authentication/blob/main/artists/alinakiilhan/MASTER_AUTHENTICATION_RECORD.csv)
 - ✅ **Digital Notary:** [Verification Terminal](https://github.com/galeri-coder/ilhanart-roadmap/tree/main/registry)
 
