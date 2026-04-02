@@ -1,19 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=İLHAN%20ART&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Where%20Art%20Meets%20Technology&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=CULTURE&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=The%20darkness%20is%20being%20illuminated&descAlignY=55&descSize=20)" width="100%"/>
 
 </div>
 
 <div align="center">
 
-### 🎨 **Problem Solver • Full-Stack Researcher • Creative Technologist**
+### **Atheist Activist • Digital Archivist • Source Text Analyst**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+My+Creative+Universe+%F0%9F%8C%8C;Transforming+Ideas+into+Digital+Art+%F0%9F%8E%A8;Building+the+Future+of+Art+%F0%9F%9A%80;Code+%2B+Creativity+%3D+Magic+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&random=false&width=800&lines=Illuminating+What+Was+Hidden+%F0%9F%94%8D;Islamic+Source+Texts+%E2%80%94+Unfiltered+%F0%9F%93%9C;Atheism+Activism+%7C+Digital+Archiving+%F0%9F%97%83%EF%B8%8F;Evidence+over+Tradition+%E2%9A%96%EF%B8%8F" alt="Typing SVG" />
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ilhanart.org-10b981?style=for-the-badge&logoColor=white)](https://www.ilhanart.org)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-@ilhanartgaleri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ilhanartgaleri)
+[![Website](https://img.shields.io/badge/🌐_Website-ilhanart.org/en-10b981?style=for-the-badge&logoColor=white)](https://www.ilhanart.org/en)
+[![X](https://img.shields.io/badge/𝕏_Twitter-@Galerilhan-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Galerilhan)
+[![GitHub](https://img.shields.io/badge/GitHub-galeri--coder-10b981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/galeri-coder)
 [![Email](https://img.shields.io/badge/📧_Email-Say_Hello-10b981?style=for-the-badge)](mailto:galeri@ilhanart.org)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=galeri-coder&label=Profile%20Views&color=10b981&style=for-the-badge)
@@ -22,56 +23,86 @@
 
 ---
 
-## 🧭 About İlhanArt
+## 🧭 About CULTURE
 
-İlhanArt Gallery combines traditional art curation with blockchain technology to create **millennium-scale cultural preservation systems**. Our mission: authenticate, document, and preserve artistic works for future generations through cryptographic verification and decentralized protocols.
+CULTURE is a long-term atheism activism and digital archiving project. The core work: presenting Islamic primary source texts — sira, hadith, tafsir — in their original form, without apology, without filter, in both English and Turkish.
 
-**Core Philosophy:** *Culture > Capital*  
-We reject speculation-driven models in favor of honest documentation, long-term preservation, and cultural integrity.
+This is not interpretation. This is documentation.
+
+**Core Philosophy:** *Evidence > Tradition • Culture > Capital*  
+We reject both religious mystification and speculation-driven models. Real sources, honest presentation, long-term archival.
 
 ---
 
-## 🔗 Quick Links
+## 🔗 Active Projects
 
-### 📚 **Essential Resources**
+### 📺 **YouTube Live Stream Series**
 
-- 🧩 **Start Here:** [Project Root & Overview](https://github.com/galeri-coder/ilhanart-roadmap#readme)
-- 📜 **Protocols:** [PoArt Constitution](https://github.com/galeri-coder/ilhanart-protocol/blob/main/%5BPoArt%5D/readme.md)
-- 🗺️ **Roadmap:** [975-Year Timeline (2025-3000)](https://github.com/galeri-coder/ilhanart-roadmap/blob/main/README.md)
-- 🗃️ **Registry:** [Public Verification Registry](https://github.com/galeri-coder/ilhanart-roadmap/tree/main/registry)
+Primary source texts read aloud and presented live — Alfred Guillaume's *The Life of Muhammad* (Oxford University Press, 1955) and other classical sources.
 
+**Completed bilingual pages (EN + TR):**
+- 🗡️ Banu Qurayza Massacre
+- 🗡️ Assassination of Ka'b ibn al-Ashraf
+- 💰 Booty Distribution System
 
-### 🎨 **Authentication System**
+**Candidates for next session:**
+- The Hira Cave Revelation
+- Bilal's Torture
+- The Aqaba Pledges
+- Preparations for Badr
 
-- 🖼️ **Sealed Originals:** [32 Authenticated Artworks](https://github.com/galeri-coder/poart-authentication/tree/main/artists/alinakiilhan/01_originals)
-- 📋 **Master Record:** [Authentication CSV](https://github.com/galeri-coder/poart-authentication/blob/main/artists/alinakiilhan/MASTER_AUTHENTICATION_RECORD.csv)
-- ✅ **Digital Notary:** [Verification Terminal](https://github.com/galeri-coder/ilhanart-roadmap/tree/main/registry)
+---
 
-### 🌍 **Documentation**
+### 📖 **Dijital Tefsir Projesi** ⭐ **ACTIVE**
 
-- 📖 **44-Language Terminology:** [Multilingual Glossary](https://github.com/galeri-coder/ilhanart-roadmap/tree/main/docs/specs)
-- 📄 **Research Synthesis:** [EN](https://github.com/galeri-coder/ilhanart-roadmap/blob/main/knowledge-base/research-synthesis-EN.md) | [TR](https://github.com/galeri-coder/ilhanart-roadmap/blob/main/knowledge-base/research-synthesis-TR.md)
+A GitHub Pages website presenting all 114 Quranic surahs in chronological revelation order, analyzed through an 8-layer methodology:
 
+1. Arabic text + letter/root etymology (Lane's Lexicon)
+2. Multiple English translation comparison (Pickthall, Yusuf Ali, Sahih International)
+3. Tabari tafsir — companion narrations
+4. Ibn Kathir — hadith context
+5. Qurtubi — legal commentary
+6. Occasion of revelation / asbab al-nuzul
+7. Related hadiths (Bukhari/Muslim)
+8. Turkish summary — narration, not interpretation
+
+Starting point: **Surah Alaq (96:1)** — the first revealed surah.
+
+---
+
+### 🎨 **PoArt Authentication System** — *Legacy / Parallel*
+
+Blockchain-based art authentication for İlhanArt Gallery collections. SHA-512 cryptographic hashing, QR watermarking, millennium-scale archival.
+
+- **Status:** Production (parallel to activism work)
+- **Content:** 32 authenticated artworks by Ali Naki İlhan
 
 ---
 
 ## 🗺️ Repository Map
 
+### 📚 **Activism & Archiving**
+
+#### [`dijital-tefsir`](https://github.com/galeri-coder) 📖 **ACTIVE**
+Chronological Quran analysis site. All 114 surahs, 8-layer methodology, bilingual (EN/TR).
+- **Technology:** GitHub Pages, HTML/CSS, bilingual layout
+- **Tools:** OBS Studio (live sessions), Lane's Lexicon, classical tafsir sources
+
+---
+
 ### 🎨 **Authentication & Verification**
 
-#### [`poart-authentication`](https://github.com/galeri-coder/poart-authentication) ⭐ **ACTIVE**
+#### [`poart-authentication`](https://github.com/galeri-coder/poart-authentication)
 Blockchain-based art authentication system for İlhanArt Gallery collections.
 - **Status:** Production
 - **Content:** 32 authenticated artworks by Ali Naki İlhan
 - **Technology:** SHA-512 cryptographic hashing, QR watermarking
-- **Features:** Original files, watermarked versions, metadata, verification system
-- **Purpose:** Millennium-scale archival and provenance tracking
 
 ---
 
 ### 📋 **Protocols & Standards**
 
-> ⚠️ **Note:** The [F.P.P.] (Foundational Pillar Protocol) is currently in **DEMO/DRAFT stage**. The protocol is under active development and should be considered experimental. Production deployment is planned for 2027-2030.
+> ⚠️ **Note:** The [F.P.P.] (Foundational Pillar Protocol) is currently in **DEMO/DRAFT stage**. Production deployment planned for 2027–2030.
 
 #### [`ilhanart-core`](https://github.com/galeri-coder/ilhanart-core) 🔧 **CORE INFRASTRUCTURE**
 Core protocols and governance standards for the İlhanArt ecosystem.
@@ -80,90 +111,24 @@ Core protocols and governance standards for the İlhanArt ecosystem.
 ```
 ilhanart-core/
 ├── protocols/
-│   ├── [F.P.P.]/          # Foundational Pillar Protocol (DEMO) - governance
-│   │   └── v1/            # Version 1 draft implementation
+│   ├── [F.P.P.]/          # Foundational Pillar Protocol (DEMO)
 │   ├── [PoArt]/           # Proof of Art protocol
-│   │   └── v1/            # Authentication standards
-│   └── index.html         # Protocol gateway
+│   └── index.html
 ├── registry/
-│   └── registry.json      # Public verification registry
-├── sealed/                # Notarized documents
-│   ├── POART-*.json       # Sealed authentication records
+│   └── registry.json
+├── sealed/
+│   ├── POART-*.json
 │   └── manifests_schema_v1.0_SEALED.sql
 └── scripts/
-    └── validate-links.mjs # Link integrity checker
+    └── validate-links.mjs
 ```
-
-**Key Components:**
-- **[F.P.P.] (DEMO)** - Foundational governance and pillar management *(Draft Stage)*
-- **[PoArt]** - Art authentication and verification protocol
-- **Registry** - Public source of truth for all verifications
-- **Sealed Records** - Cryptographically notarized documents
-
----
 
 #### [`ilhanart-roadmap`](https://github.com/galeri-coder/ilhanart-roadmap) 📚 **DOCUMENTATION HUB**
 Comprehensive documentation, research, and multilingual resources.
 
-**Structure:**
-```
-ilhanart-roadmap/
-├── docs/
-│   ├── specs/             # 44-language terminology translations
-│   │   ├── terminology.en.md
-│   │   ├── terminology.tr.md
-│   │   └── ... (42 more languages)
-│   ├── whitepapers/       # Protocol whitepapers
-│   └── lexicon/           # Technical glossary
-├── knowledge-base/
-│   ├── research-synthesis-EN.md
-│   └── research-synthesis-TR.md
-├── ecosystem/
-│   ├── meme-coin-killer.md           # Anti-speculation manifesto
-│   ├── physical-infrastructure.md
-│   └── venue-partnerships.md
-└── initiatives/
-    └── translation/       # 44-language translation project
-```
-
-**Highlights:**
-- **44 Language Support** - Global accessibility for protocol terminology
-- **Research Synthesis** - Comprehensive analysis in English and Turkish
-- **Meme Coin Killer** - Manifesto against speculative crypto models
-- **Translation Initiative** - Community-driven multilingual documentation
-
----
-
-#### [`ilhanart-protocol`](https://github.com/galeri-coder/ilhanart-protocol) 🏗️ **DEVELOPMENT WORKSPACE**
-Development blueprints, experimental features, and system architecture.
-
-**Structure:**
-```
-ilhanart-protocol/
-├── Blueprints/
-│   ├── ilhanart-roadmap/
-│   ├── kurulum_*.js       # Setup scripts
-│   ├── organize_*.js      # Organization utilities
-│   └── package.json
-├── [F.P.P.]/              # (DEMO) - Draft implementation
-│   ├── data/
-│   │   └── last_proof_run.json
-│   └── packages/
-│       └── indexer/       # TypeScript indexer
-└── [PoArt]/
-    ├── modules/           # Artist module templates
-    │   ├── davinci.html
-    │   ├── picasso.html
-    │   ├── pollock.html
-    │   └── ... (7 artist modules)
-    └── index.html
-```
-
-**Purpose:**
-- Experimental features and prototypes
-- System architecture blueprints
-- Development utilities and scripts
-- Artist module templates for [PoArt] protocol
+- **44 Language Support** — Global accessibility for protocol terminology
+- **Research Synthesis** — Comprehensive analysis in English and Turkish
+- **Meme Coin Killer** — [Manifesto against speculative crypto models](https://github.com/galeri-coder/ilhanart-roadmap/blob/main/ecosystem/meme-coin-killer.md)
 
 ---
 
@@ -171,11 +136,8 @@ ilhanart-protocol/
 
 #### [`galeri-coder.github.io`](https://galeri-coder.github.io) 🌐 **WEB PORTAL**
 Public-facing interface for protocol documentation and asset registry.
-
-**Features:**
 - Protocol gateway (PoArt, F.P.P., Digital Notary)
 - Public registry interface
-- Digital notary verification
 - Modular dark-glass UI (v1.0)
 
 ---
@@ -186,7 +148,15 @@ Public-facing interface for protocol documentation and asset registry.
 
 ### **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=js,html,css,python,nodejs,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=js,html,css,python,nodejs" />
+
+---
+
+### **Activism & Production Tools**
+
+![OBS Studio](https://img.shields.io/badge/OBS_Studio-Live_Streaming-302E31?style=for-the-badge&logo=obsstudio&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Hosting-222222?style=for-the-badge&logo=github&logoColor=white)
+![Bilingual HTML](https://img.shields.io/badge/Bilingual_HTML-EN_/_TR-10b981?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -194,7 +164,6 @@ Public-facing interface for protocol documentation and asset registry.
 
 ![Claude AI](https://img.shields.io/badge/Claude_AI-Assistant-10b981?style=for-the-badge&logo=anthropic&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-Editor-667EEA?style=for-the-badge&logoColor=white)
 
 ---
@@ -210,48 +179,45 @@ Public-facing interface for protocol documentation and asset registry.
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
 
-![Git GUI](https://img.shields.io/badge/Git_GUI-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 </div>
 
 ---
 
 ## 🎯 Current Focus
 
-### ⭐ **Primary Project: PoArt Authentication System**
+### ⭐ **Primary: Dijital Tefsir Projesi + YouTube Series**
 
-Building a **975-year roadmap** (2025-3000) for cultural preservation:
-
-- ✅ **Phase 1 (2025):** SHA-512 authentication for 32 artworks
-- ✅ **Phase 1 (2025):** QR watermarking and verification system
-- 🔄 **Phase 2 (2026):** Blockchain integration (Solana/Ethereum)
-- 🔄 **Phase 2 (2026):** Web verification portal development
-- 📋 **Phase 3 (2027):** Multi-artist expansion
-- 📋 **Phase 3 (2027):** Decentralized storage (IPFS/Arweave)
+- ✅ Bilingual site index (114 surahs, chronological order)
+- ✅ Completed pages: Banu Qurayza, Ka'b ibn al-Ashraf, Booty Distribution
+- 🔄 Next: New section from *The Life of Muhammad* (first 200 pages)
+- 🔄 Live stream production setup (OBS, camera, microphone)
+- 📋 Expand: All 114 surahs with 8-layer methodology
 
 ### 🔬 **Research Areas**
 
+- Islamic primary source criticism
+- Atheism activism and public communication
+- Digital archiving and long-term preservation
+- Bilingual (EN/TR) documentation systems
 - Cryptographic art authentication
-- Decentralized cultural preservation
-- Anti-speculation governance models
-- Multilingual documentation systems
 
 ---
 
-## 💎 Philosophy: Culture > Capital
+## 💎 Philosophy: Evidence > Tradition
 
-İlhanArt rejects the "meme coin" model of speculation-driven value extraction. Instead, we build:
+CULTURE rejects both religious mystification and speculative noise. Instead, we build:
 
-- **Honest Documentation** - Real work, real value, real verification
-- **Long-term Thinking** - 975-year roadmap, not 975-day pump cycles
-- **Cultural Integrity** - Art preservation over financial speculation
-- **Proof Before Trust** - Cryptographic verification, not marketing hype
-
-**Read the Manifesto:** [Check](https://github.com/galeri-coder/ilhanart-roadmap/blob/main/ecosystem/meme-coin-killer.md)
+- **Primary Sources First** — Original texts, not interpretations
+- **Honest Documentation** — Real work, real evidence, no filter
+- **Long-term Thinking** — Archives built for decades, not trends
+- **Bilingual by Default** — Turkish and English, always
+- **Proof Before Trust** — Verification over assertion
 
 ---
 
 ## 📊 GitHub Analytics
+
+<div align="center">
 
 <a href="https://github.com/galeri-coder">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=galeri-coder&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -262,11 +228,7 @@ Building a **975-year roadmap** (2025-3000) for cultural preservation:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=galeri-coder&theme=algolia" width="100%"/>
 
-</div>
-
 <br>
-
-<div align="center">
 
 ### 🔥 Contribution Streak
 
@@ -291,13 +253,11 @@ Building a **975-year roadmap** (2025-3000) for cultural preservation:
 
 <div align="center">
 
-### 💚 **Thank You for Visiting!**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&repeat=true&width=600&lines=Keep+Creating+%F0%9F%8E%A8;Keep+Coding+%F0%9F%92%BB;Keep+Inspiring+%E2%9C%A8;See+You+in+the+Metaverse!+%F0%9F%8C%8C" alt="Farewell" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&repeat=true&width=600&lines=Keep+Questioning+%F0%9F%94%8D;Keep+Documenting+%F0%9F%93%9C;Keep+Illuminating+%F0%9F%92%A1;The+darkness+is+being+illuminated+%E2%98%80%EF%B8%8F" alt="Farewell" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" width="100%"/>
 
-**Made with ❤️, 🎨, and countless ☕ by İlhan Art**
+**Made with 🔍, 📜, and countless ☕ by CULTURE**
 
 [![Visitors](https://api.visitorbadge.io/api/combined?path=galeri-coder&label=Total%20Visitors&countColor=%2310b981&style=for-the-badge&labelStyle=upper)](https://visitorbadge.io/status?path=galeri-coder)
 
